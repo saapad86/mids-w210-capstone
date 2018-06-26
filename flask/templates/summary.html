@@ -2,7 +2,7 @@
 {% import "bootstrap/utils.html" as utils %}
 
 {% block title %}
-	Campaign Delivery Dashboard
+	De-Crypto
 {% endblock %}
 
 {% block head %}
@@ -22,9 +22,9 @@
 {% endblock %}
 
 {% block scripts %}
-	<!-- <script type="text/javascript">
+	<script type="text/javascript">
 		{% include 'js/sparklines.js' %}
-	</script> -->
+	</script>
 {% endblock %}
 
 {% block navbar %}
@@ -45,8 +45,8 @@
 			{%- endif %}
 		{%- endwith %}
 		<div class="page-header">
-			<h1>Campaign Delivery Dashboard</h1>
-			<p>Placeholder text for campaign delivery dashboard.</p>
+			<h1>De-Crypto: All ICOs</h1>
+			<p>All ICOs in the last 18 months.</p>
 			<p>
 				<a class="btn btn-lg btn-default" role="button" href="http://pythonhosted.org/Flask-Bootstrap" >Show docs</a>
 			</p>
@@ -62,15 +62,18 @@
 		    lang: {
 		        thousandsSep: ','
 		    }
-		}); 		
+		}); 	
+
+
 		$.getJSON('/_summary_data1', function(data) {
-			// console.log(data)
+			console.log(data);
 			var table='<table id="table-sparkline">';
 			/* loop over each object in the array to create rows*/
 			$.each( data, function( index, item){
 				/* add to html string started above*/
-				var cols = []
+				var cols = ['ICO Name','Founder','Description','Key Dates','Status','Links']
 				var sparkline_cols = []
+				var url_cols = ['ICO Name','Founder']
 				if(index == 0) {
 					table += '<thead><tr>'
 					cols.forEach(key => {
@@ -82,8 +85,11 @@
 					cols.forEach(key => {
 						if (sparkline_cols.includes(key)) {
 							table += '<td data-sparkline="'+item[key]+'"></td>';
-						} else if (key == 'master_contract') {
-							table += '<td><a href="/detail/' + item[key] +'">' + item[key] + '</a></td>'; 
+						} else if (url_cols.includes(key)) {
+							text = item[key].toString().split('|')[0]
+							url = item[key].toString().split('|')[1]
+							console.log(text)
+							table += '<td><a href="' + url +'">' + text + '</a></td>'; 
 						} else {
 							table += '<td>'+item[key]+'</td>';
 						};
@@ -98,14 +104,13 @@
 			{% include 'js/sparklines.js' %}
 			doChunk();
 			$('#table1').DataTable({
-				stateSave: true
+				stateSave: true,
+				columnDefs: { width: 100, targets: [1,2]}
 			});
 		});
 	</script>
-<!-- 	<script type="text/javascript">
-		{% include 'js/plugins.js' %}
-		{% include 'js/bubble.js' %}
-		{% include 'js/bubble.js' %}
+	<script type="text/javascript">
+
 	</script>
- -->
+
 {% endblock %}
