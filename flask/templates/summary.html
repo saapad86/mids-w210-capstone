@@ -1,0 +1,116 @@
+{% extends "bootstrap/base.html" %}
+{% import "bootstrap/utils.html" as utils %}
+
+{% block title %}
+	De-Crypto
+{% endblock %}
+
+{% block head %}
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.css"/>
+	<style>
+		{% include 'style.css' %}
+	</style>
+	<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.js"></script>   
+	<script src="https://code.highcharts.com/highcharts.js"></script>
+	<script src="https://code.highcharts.com/modules/data.js"></script>
+	<script src="https://code.highcharts.com/highcharts-more.js"></script>
+	<script src="https://code.highcharts.com/modules/exporting.js"></script>
+	<script src="https://code.highcharts.com/modules/export-data.js"></script>
+
+	{{super()}}
+{% endblock %}
+
+{% block scripts %}
+	<script type="text/javascript">
+		{% include 'js/sparklines.js' %}
+	</script>
+{% endblock %}
+
+{% block navbar %}
+<div class="navbar navbar-fixed-top">
+  <!-- ... -->
+</div>
+{% endblock %}
+
+{% block content %}
+	<div class="container">
+		{%- with messages = get_flashed_messages(with_categories=True) %}
+			{%- if messages %}
+			<div class="row">
+				<div class="col-md-12">
+					{{utils.flashed_messages(messages)}}
+				</div>
+			</div>
+			{%- endif %}
+		{%- endwith %}
+		<div class="page-header">
+			<h1>De-Crypto: All ICOs</h1>
+			<p>All ICOs in the last 18 months.</p>
+			<p>
+				<a class="btn btn-lg btn-default" role="button" href="http://pythonhosted.org/Flask-Bootstrap" >Show docs</a>
+			</p>
+		</div>
+	</div>
+
+	<div class="container" id='chart1'>
+		<table id="table1" class="display" width="80%"></table>
+	</div>
+	<script type="text/javascript">
+
+		Highcharts.setOptions({
+		    lang: {
+		        thousandsSep: ','
+		    }
+		}); 	
+
+
+		$.getJSON('/_summary_data1', function(data) {
+			console.log(data);
+			var table='<table id="table-sparkline">';
+			/* loop over each object in the array to create rows*/
+			$.each( data, function( index, item){
+				/* add to html string started above*/
+				var cols = ['ICO Name','Founder','Description','Key Dates','Status','Links']
+				var sparkline_cols = []
+				var url_cols = ['ICO Name','Founder']
+				if(index == 0) {
+					table += '<thead><tr>'
+					cols.forEach(key => {
+						table += '<th>'+key+'</th>'; 
+					});
+					table += '</tr></thead><tbody id="tbody-sparkline">'
+				} else {
+					table += '<tr>'
+					cols.forEach(key => {
+						if (sparkline_cols.includes(key)) {
+							table += '<td data-sparkline="'+item[key]+'"></td>';
+						} else if (url_cols.includes(key)) {
+							text = item[key].toString().split('|')[0]
+							url = item[key].toString().split('|')[1]
+							console.log(text)
+							table += '<td><a href="' + url +'">' + text + '</a></td>'; 
+						} else {
+							table += '<td>'+item[key]+'</td>';
+						};
+					});
+					table += '</tr>'
+				};
+			});
+			table+='</tbody></table>';
+			/* insert the html string*/
+			$("#table1").html( table );		
+
+			{% include 'js/sparklines.js' %}
+			doChunk();
+			$('#table1').DataTable({
+				stateSave: true,
+				columnDefs: { width: 100, targets: [1,2]}
+			});
+		});
+	</script>
+	<script type="text/javascript">
+
+	</script>
+
+{% endblock %}
