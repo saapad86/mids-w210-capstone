@@ -1,0 +1,926 @@
+|ICO|STARTUP_NAME|HYPE_SCORE|RISK_SCORE|STATUS|ICO_CODE|RISK_CODE|HYPE_CODE|HYPE_CODE_BINARY|ICO_Updated
+0|NEO|NEO (NEO)|VERY HIGH|VERY LOW|POST|NEO|1|5|1|neo
+1|Cindicator|Cindicator (CND)|HIGH|VERY LOW|POST|CND|1|4|1|cindicator
+2|UnikoinGold|UnikoinGold (UKG)|VERY HIGH|VERY LOW|POST|UKG|1|5|1|unikoingold
+3|Opus|Opus (OPT)|VERY HIGH|VERY LOW|POST|OPT|1|5|1|opus
+4|Shping|Shping (SHPING)|MEDIUM|VERY LOW|POST|SHPING|1|3|1|shping
+5|monetha|monetha (MTH)|HIGH|VERY LOW|POST|MTH|1|4|1|monetha
+6|Viberate|Viberate (VIB)|HIGH|VERY LOW|POST|VIB|1|4|1|viberate
+7|Maecenas|Maecenas (ART)|LOW|VERY LOW|POST|ART|1|2|0|maecenas
+8|Flixxo|Flixxo (FLIXX)|HIGH|VERY LOW|POST|FLIXX|1|4|1|flixxo
+9|Ahoolee|Ahoolee (AHT)|LOW|LOW|POST|AHT|2|2|0|ahoolee
+10|Pally|Pally (PAL)|MEDIUM|LOW|POST|PAL|2|3|1|pally
+11|Blockstack|Blockstack (STX)|HIGH|LOW|POST|STX|2|4|1|blockstack
+12|Kencoin|Kencoin (KCN)|LOW|LOW|POST|KCN|2|2|0|kencoin
+13|Cryptopay|Cryptopay (CPAY)|MEDIUM|LOW|POST|CPAY|2|3|1|cryptopay
+14|trackr|trackr (TKR)|MEDIUM|LOW|POST|TKR|2|3|1|trackr
+15|IQeon|IQeon (IQN)|HIGH|LOW|POST|IQN|2|4|1|iqeon
+16|Fortknoxster|Fortknoxster (FKX)|MEDIUM|LOW|POST|FKX|2|3|1|fortknoxster
+17|TenX|TenX (PAY)|VERY HIGH|LOW|POST|PAY|2|5|1|tenx
+18|ICON|ICON (ICX)|MEDIUM|LOW|POST|ICX|2|3|1|icon
+19|1World|1World (1WO)|MEDIUM|LOW|POST|1WO|2|3|1|1world
+20|Filecoin|Filecoin (FIL)|HIGH|LOW|POST|FIL|2|4|1|filecoin
+21|Solve.Care|Solve.Care (CAN)|HIGH|LOW|POST|CAN|2|4|1|solve care
+22|LIQUID|LIQUID (QASH)|MEDIUM|LOW|POST|QASH|2|3|1|liquid
+23|TraDove|TraDove (BBcoin)|MEDIUM|LOW|POST|BBcoin|2|3|1|tradove
+24|Reality Clash|Reality Clash (RCC)|MEDIUM|LOW|POST|RCC|2|3|1|reality clash
+25|Simple Token|Simple Token (ST)|MEDIUM|LOW|POST|ST|2|3|1|simple token
+26|Starta|Starta (CRS)|VERY HIGH|LOW|POST|CRS|2|5|1|starta
+27|Aurora|Aurora (DVIP)|MEDIUM|LOW|POST|DVIP|2|3|1|aurora
+28|Sphere|Sphere (SAT)|VERY HIGH|LOW|POST|SAT|2|5|1|sphere
+29|Bread|Bread (BRD)|HIGH|LOW|POST|BRD|2|4|1|bread
+30|Naviaddress|Naviaddress (NAVI)|LOW|LOW|POST|NAVI|2|2|0|naviaddress
+31|SynchroLife|SynchroLife (SYC)|LOW|LOW|POST|SYC|2|2|0|synchrolife
+32|Wanchain|Wanchain (WAN)|MEDIUM|LOW|POST|WAN|2|3|1|wanchain
+33|Viuly|Viuly (VIU)|VERY HIGH|LOW|POST|VIU|2|5|1|viuly
+34|Coin Lion|Coin Lion (LION)|HIGH|LOW|POST|LION|2|4|1|coin lion
+35|Retainly|Retainly (RETN)|MEDIUM|LOW|POST|RETN|2|3|1|retainly
+36|Aigang|Aigang (AIX)|VERY HIGH|LOW|POST|AIX|2|5|1|aigang
+37|GUTS|GUTS (GET)|HIGH|LOW|POST|GET|2|4|1|guts
+38|SIRIN LABS|SIRIN LABS (SRN)|VERY HIGH|LOW|POST|SRN|2|5|1|sirin labs
+39|STeX|STeX (STE)|MEDIUM|LOW|POST|STE|2|3|1|stex
+40|IGNIS|IGNIS (IGNIS)|MEDIUM|LOW|POST|IGNIS|2|3|1|ignis
+41|AirToken|AirToken (AIR)|VERY HIGH|LOW|POST|AIR|2|5|1|airtoken
+42|Zonto|Zonto (ZONTO)|VERY LOW|LOW|POST|ZONTO|2|1|0|zonto
+43|Graft Blockchain|Graft Blockchain (GRFT)|LOW|LOW|POST|GRFT|2|2|0|graft blockchain
+44|Selfkey|Selfkey (KEY)|VERY HIGH|LOW|POST|KEY|2|5|1|selfkey
+45|Electroneum|Electroneum (ETN)|MEDIUM|LOW|POST|ETN|2|3|1|electroneum
+46|Datawallet|Datawallet (DXT)|MEDIUM|LOW|POST|DXT|2|3|1|datawallet
+47|Boule|Boule (BOU)|LOW|LOW|POST|BOU|2|2|0|boule
+48|VerifyUnion|VerifyUnion (UC)|LOW|LOW|POST|UC|2|2|0|verifyunion
+49|DropDeck|DropDeck (DDD)|LOW|LOW|POST|DDD|2|2|0|dropdeck
+50|BlockEx|BlockEx (DAXT)|VERY LOW|LOW|POST|DAXT|2|1|0|blockex
+51|Hurify|Hurify (HUR)|LOW|LOW|POST|HUR|2|2|0|hurify
+52|Blocklancer|Blocklancer (LNC)|HIGH|LOW|POST|LNC|2|4|1|blocklancer
+53|Lampix|Lampix (PIX)|LOW|LOW|POST|PIX|2|2|0|lampix
+54|CombiCoin|CombiCoin (COMBI)|VERY LOW|LOW|POST|COMBI|2|1|0|combicoin
+55|ESR Wallet|ESR Wallet (ESR)|VERY LOW|LOW|POST|ESR|2|1|0|esr wallet
+56|MyWish|MyWish (WISH)|LOW|LOW|POST|WISH|2|2|0|mywish
+57|Nova Blitz|Nova Blitz (NVT)|MEDIUM|LOW|POST|NVT|2|3|1|nova blitz
+58|GlobCoin|GlobCoin (GCP)|HIGH|LOW|POST|GCP|2|4|1|globcoin
+59|Globitex|Globitex (GBX)|HIGH|LOW|POST|GBX|2|4|1|globitex
+60|Po.et|Po.et (POE)|MEDIUM|LOW|POST|POE|2|3|1|po et
+61|MingoCoin|MingoCoin (MGT)|VERY LOW|LOW|POST|MGT|2|1|0|mingocoin
+62|Etch|Etch (ETCH)|LOW|LOW|POST|ETCH|2|2|0|etch
+63|MARK.SPACE|MARK.SPACE (MRK)|HIGH|LOW|POST|MRK|2|4|1|mark space
+64|Obsidian|Obsidian (ODN)|HIGH|LOW|POST|ODN|2|4|1|obsidian
+65|CarTaxi|CarTaxi (CTX)|HIGH|LOW|POST|CTX|2|4|1|cartaxi
+66|Refereum|Refereum (RFR)|LOW|LOW|POST|RFR|2|2|0|refereum
+67|Modum|Modum (MOD)|MEDIUM|LOW|POST|MOD|2|3|1|modum
+68|Soma|Soma (SCT)|HIGH|LOW|POST|SCT|2|4|1|soma
+69|SyncFab|SyncFab (MFG)|HIGH|LOW|POST|MFG|2|4|1|syncfab
+70|Colu|Colu (CLN)|HIGH|LOW|POST|CLN|2|4|1|colu
+71|Lamden|Lamden (TAU)|LOW|LOW|POST|TAU|2|2|0|lamden
+72|Gatcoin|Gatcoin (GAT)|MEDIUM|LOW|POST|GAT|2|3|1|gatcoin
+73|Repux|Repux (RPX)|HIGH|LOW|POST|RPX|2|4|1|repux
+74|hubii.network|hubii.network (HUB)|MEDIUM|LOW|POST|HUB|2|3|1|hubii network
+75|EQUI|EQUI (EQUI)|LOW|LOW|POST|EQUI|2|2|0|equi
+76|LiveEdu|LiveEdu (EDU)|MEDIUM|LOW|POST|EDU|2|3|1|liveedu
+77|Javvy|Javvy (JVY)|LOW|LOW|POST|JVY|2|2|0|javvy
+78|VISO|VISO (VITO)|HIGH|LOW|POST|VITO|2|4|1|viso
+79|Oracles|Oracles (POA)|MEDIUM|LOW|POST|POA|2|3|1|oracles
+80|stuffgogo|stuffgogo (SGG)|LOW|LOW|POST|SGG|2|2|0|stuffgogo
+81|Swarm.fund|Swarm.fund (SWM)|MEDIUM|LOW|POST|SWM|2|3|1|swarm fund
+82|CanYa|CanYa (CANYA)|MEDIUM|LOW|POST|CANYA|2|3|1|canya
+83|The Divi Project|The Divi Project (DIVX)|HIGH|LOW|POST|DIVX|2|4|1|the divi project
+84|SocialX|SocialX (SOCX)|MEDIUM|LOW|POST|SOCX|2|3|1|socialx
+85|Skrumble Network|Skrumble Network (SKM)|LOW|LOW|POST|SKM|2|2|0|skrumble network
+86|Enigma/Catalyst|Enigma/Catalyst (ENG)|VERY HIGH|LOW|POST|ENG|2|5|1|enigma catalyst
+87|LAToken|LAToken (LA)|MEDIUM|LOW|POST|LA|2|3|1|latoken
+88|Just Dating Site|Just Dating Site (JDS)|LOW|LOW|POST|JDS|2|2|0|just dating site
+89|Monaco|Monaco (MCO)|VERY HIGH|LOW|POST|MCO|2|5|1|monaco
+90|Ambrosus|Ambrosus (AMB)|VERY HIGH|LOW|POST|AMB|2|5|1|ambrosus
+91|Bankera|Bankera (BNK)|MEDIUM|LOW|POST|BNK|2|3|1|bankera
+92|Latium|Latium (LATX)|HIGH|LOW|POST|LATX|2|4|1|latium
+93|CIBUS|CIBUS (CBT)|LOW|LOW|POST|CBT|2|2|0|cibus
+94|Horizonstate|Horizonstate (HST)|LOW|LOW|POST|HST|2|2|0|horizonstate
+95|Mercury Protocol|Mercury Protocol (GMT)|HIGH|LOW|POST|GMT|2|4|1|mercury protocol
+96|CoinMe|CoinMe (UP)|LOW|LOW|POST|UP|2|2|0|coinme
+97|Game Machine|Game Machine (GMIT)|HIGH|LOW|POST|GMIT|2|4|1|game machine
+98|Kin|Kin (KIN)|HIGH|LOW|POST|KIN|2|4|1|kin
+99|Bowhead Health|Bowhead Health (AHT)|HIGH|LOW|POST|AHT|2|4|1|bowhead health
+100|ATLANT|ATLANT (ATL)|HIGH|LOW|POST|ATL|2|4|1|atlant
+101|IMMLA|IMMLA (IML)|HIGH|LOW|POST|IML|2|4|1|immla
+102|ModulTrade|ModulTrade (MTRc)|VERY HIGH|LOW|POST|MTRc|2|5|1|modultrade
+103|Qlink|Qlink (QLC)|HIGH|LOW|POST|QLC|2|4|1|qlink
+104|Pocketinns|Pocketinns (PINNS)|VERY LOW|LOW|POST|PINNS|2|1|0|pocketinns
+105|Gimmer|Gimmer (GMR)|HIGH|LOW|POST|GMR|2|4|1|gimmer
+106|HONOR|HONOR (HNR)|MEDIUM|LOW|POST|HNR|2|3|1|honor
+107|Kora Network|Kora Network (KNT)|VERY HIGH|LOW|POST|KNT|2|5|1|kora network
+108|SHIFT.cash|SHIFT.cash (SCASH)|MEDIUM|LOW|POST|SCASH|2|3|1|shift cash
+109|CoinDash|CoinDash (CDT)|VERY HIGH|LOW|POST|CDT|2|5|1|coindash
+110|NaPoleon X|NaPoleon X (NPX)|HIGH|LOW|POST|NPX|2|4|1|napoleon x
+111|Hive Project|Hive Project (HVN)|VERY HIGH|LOW|POST|HVN|2|5|1|hive project
+112|Lordmancer II|Lordmancer II (LC)|LOW|LOW|POST|LC|2|2|0|lordmancer ii
+113|Storiqa|Storiqa (STQ)|VERY LOW|LOW|POST|STQ|2|1|0|storiqa
+114|Dether|Dether (DTH)|MEDIUM|LOW|POST|DTH|2|3|1|dether
+115|Atonomi|Atonomi (ATMI)|HIGH|LOW|POST|ATMI|2|4|1|atonomi
+116|Propy|Propy (PRO)|VERY HIGH|LOW|POST|PRO|2|5|1|propy
+117|PECUN|PECUN (PCO)|LOW|LOW|POST|PCO|2|2|0|pecun
+118|Centra|Centra (CTR)|HIGH|LOW|POST|CTR|2|4|1|centra
+119|PayperEx|PayperEx (PAX)|LOW|LOW|POST|PAX|2|2|0|payperex
+120|Rockchain|Rockchain (ROK)|VERY LOW|LOW|POST|ROK|2|1|0|rockchain
+121|BitDegree|BitDegree (BDG)|VERY HIGH|LOW|POST|BDG|2|5|1|bitdegree
+122|NeuroChain|NeuroChain (NCC)|MEDIUM|LOW|POST|NCC|2|3|1|neurochain
+123|Dolphin|Dolphin (DOBI)|VERY LOW|LOW|POST|DOBI|2|1|0|dolphin
+124|ONZ Coin|ONZ Coin (ONZ)|LOW|LOW|POST|ONZ|2|2|0|onz coin
+125|Exchange Union|Exchange Union (XUC)|HIGH|MEDIUM|POST|XUC|3|4|1|exchange union
+126|enjin|enjin (ENJ)|VERY HIGH|MEDIUM|POST|ENJ|3|5|1|enjin
+127|Acebusters|Acebusters (NTZ)|LOW|MEDIUM|POST|NTZ|3|2|0|acebusters
+128|Grant Hero|Grant Hero (GIVE)|LOW|MEDIUM|POST|GIVE|3|2|0|grant hero
+129|Crypterium|Crypterium (CRPT)|VERY HIGH|MEDIUM|POST|CRPT|3|5|1|crypterium
+130|Blockbid|Blockbid (BID)|VERY LOW|MEDIUM|POST|BID|3|1|0|blockbid
+131|Goal Bonanza|Goal Bonanza (GOAL)|MEDIUM|MEDIUM|POST|GOAL|3|3|1|goal bonanza
+132|Potentiam|Potentiam (PTM)|HIGH|MEDIUM|POST|PTM|3|4|1|potentiam
+133|Midex|Midex (MDX)|LOW|MEDIUM|POST|MDX|3|2|0|midex
+134|VIOLA.AI|VIOLA.AI (VIOLA)|MEDIUM|MEDIUM|POST|VIOLA|3|3|1|viola ai
+135|Hearthy|Hearthy (HER)|MEDIUM|MEDIUM|POST|HER|3|3|1|hearthy
+136|Viewly|Viewly (VIEW)|LOW|MEDIUM|POST|VIEW|3|2|0|viewly
+137|On.Live|On.Live (ONL)|HIGH|MEDIUM|POST|ONL|3|4|1|on live
+138|Velix.ID|Velix.ID (VXD)|HIGH|MEDIUM|POST|VXD|3|4|1|velix id
+139|Nauticus|Nauticus (NTS)|HIGH|MEDIUM|POST|NTS|3|4|1|nauticus
+140|Investfeed|Investfeed (FEED)|HIGH|MEDIUM|POST|FEED|3|4|1|investfeed
+141|Crystal Clear Services|Crystal Clear Services (CCT)|MEDIUM|MEDIUM|POST|CCT|3|3|1|crystal clear services
+142|Herocoin|Herocoin (PLAY)|MEDIUM|MEDIUM|POST|PLAY|3|3|1|herocoin
+143|VLB Tokens|VLB Tokens (VLB)|VERY HIGH|MEDIUM|POST|VLB|3|5|1|vlb tokens
+144|e-Chat|e-Chat (ECHT)|MEDIUM|MEDIUM|POST|ECHT|3|3|1|e chat
+145|Trinity|Trinity (TNC)|HIGH|MEDIUM|POST|TNC|3|4|1|trinity
+146|AML Bitcoin|AML Bitcoin (AML)|HIGH|MEDIUM|POST|AML|3|4|1|aml bitcoin
+147|ZILLIQA|ZILLIQA (ZIL)|VERY HIGH|MEDIUM|POST|ZIL|3|5|1|zilliqa
+148|BaapPay|BaapPay (BAAP)|LOW|MEDIUM|POST|BAAP|3|2|0|baappay
+149|Eligma|Eligma (ELI)|HIGH|MEDIUM|POST|ELI|3|4|1|eligma
+150|Lendingblock|Lendingblock (LND)|MEDIUM|MEDIUM|POST|LND|3|3|1|lendingblock
+151|Digital Developers Fund|Digital Developers Fund (DDF)|MEDIUM|MEDIUM|POST|DDF|3|3|1|digital developers fund
+152|BlockCAT|BlockCAT (CAT)|MEDIUM|MEDIUM|POST|CAT|3|3|1|blockcat
+153|Umbrella Coin|Umbrella Coin (UMC)|LOW|MEDIUM|POST|UMC|3|2|0|umbrella coin
+154|Change Bank|Change Bank (CAG)|HIGH|MEDIUM|POST|CAG|3|4|1|change bank
+155|Spheris|Spheris (SPRS)|MEDIUM|MEDIUM|POST|SPRS|3|3|1|spheris
+156|Chaintrade|Chaintrade (CTC)|VERY LOW|MEDIUM|POST|CTC|3|1|0|chaintrade
+157|ANONYM|ANONYM (ANM)|LOW|MEDIUM|POST|ANM|3|2|0|anonym
+158|BeEasy|BeEasy|VERY LOW|MEDIUM|POST|nan|3|1|0|beeasy
+159|Dorado|Dorado (DOR)|MEDIUM|MEDIUM|POST|DOR|3|3|1|dorado
+160|Brickblock|Brickblock (BBK)|HIGH|MEDIUM|POST|BBK|3|4|1|brickblock
+161|Signals|Signals (SGN)|VERY HIGH|MEDIUM|POST|SGN|3|5|1|signals
+162|Loopring|Loopring (LRC)|HIGH|MEDIUM|POST|LRC|3|4|1|loopring
+163|Populous|Populous (PPT)|VERY HIGH|MEDIUM|POST|PPT|3|5|1|populous
+164|Quantstamp|Quantstamp (QSP)|HIGH|MEDIUM|POST|QSP|3|4|1|quantstamp
+165|Game.com|Game.com (GTC)|MEDIUM|MEDIUM|POST|GTC|3|3|1|game com
+166|Data Trading|Data Trading (DTT)|MEDIUM|MEDIUM|POST|DTT|3|3|1|data trading
+167|Cryptobnb|Cryptobnb (Ckey)|MEDIUM|MEDIUM|POST|Ckey|3|3|1|cryptobnb
+168|ConnectJob|ConnectJob (CJT)|HIGH|MEDIUM|POST|CJT|3|4|1|connectjob
+169|Giftcoin|Giftcoin (GIFT)|HIGH|MEDIUM|POST|GIFT|3|4|1|giftcoin
+170|WELL|WELL (WELL)|HIGH|MEDIUM|POST|WELL|3|4|1|well
+171|EQUI Capital|EQUI Capital (EQUItoken)|MEDIUM|MEDIUM|POST|EQUItoken|3|3|1|equi capital
+172|Flashmoni|Flashmoni (OZT)|MEDIUM|MEDIUM|POST|OZT|3|3|1|flashmoni
+173|Verasity|Verasity (VERA)|VERY HIGH|MEDIUM|POST|VERA|3|5|1|verasity
+174|WOLK|WOLK (WOLK)|LOW|MEDIUM|POST|WOLK|3|2|0|wolk
+175|Transmission|Transmission (TMN)|MEDIUM|MEDIUM|POST|TMN|3|3|1|transmission
+176|Connectius|Connectius (CNT)|VERY LOW|MEDIUM|POST|CNT|3|1|0|connectius
+177|Sharpay|Sharpay (SHRP)|MEDIUM|MEDIUM|POST|SHRP|3|3|1|sharpay
+178|Foxtrading|Foxtrading (FXT)|LOW|MEDIUM|POST|FXT|3|2|0|foxtrading
+179|Gimli|Gimli (GIM)|MEDIUM|MEDIUM|POST|GIM|3|3|1|gimli
+180|Snovio|Snovio (SNOV)|MEDIUM|MEDIUM|POST|SNOV|3|3|1|snovio
+181|kevin.|kevin. (KVT)|VERY LOW|MEDIUM|POST|KVT|3|1|0|kevin 
+182|Credits|Credits (CS)|VERY HIGH|MEDIUM|POST|CS|3|5|1|credits
+183|CoinPoker|CoinPoker (CHP)|VERY HIGH|MEDIUM|POST|CHP|3|5|1|coinpoker
+184|Node|Node (NODE)|LOW|MEDIUM|POST|NODE|3|2|0|node
+185|Bluzelle|Bluzelle (BLZ)|VERY HIGH|MEDIUM|POST|BLZ|3|5|1|bluzelle
+186|Banca|Banca (BANCA)|MEDIUM|MEDIUM|POST|BANCA|3|3|1|banca
+187|Savedroid|Savedroid (SVD)|VERY HIGH|MEDIUM|POST|SVD|3|5|1|savedroid
+188|Proof Suite|Proof Suite (PRFT)|LOW|MEDIUM|POST|PRFT|3|2|0|proof suite
+189|Snip|Snip (SNP)|MEDIUM|MEDIUM|POST|SNP|3|3|1|snip
+190|Districts|Districts (3DC)|HIGH|MEDIUM|POST|3DC|3|4|1|districts
+191|Vezt|Vezt (VZT)|HIGH|MEDIUM|POST|VZT|3|4|1|vezt
+192|VALID|VALID (VLD)|MEDIUM|MEDIUM|POST|VLD|3|3|1|valid
+193|amon|amon (AMN)|MEDIUM|MEDIUM|POST|AMN|3|3|1|amon
+194|Invacio|Invacio (INV)|LOW|MEDIUM|POST|INV|3|2|0|invacio
+195|Kryll|Kryll (KRL)|MEDIUM|MEDIUM|POST|KRL|3|3|1|kryll
+196|GIFCoin|GIFCoin (GIF)|LOW|MEDIUM|POST|GIF|3|2|0|gifcoin
+197|GoNetwork|GoNetwork (GOT)|HIGH|MEDIUM|POST|GOT|3|4|1|gonetwork
+198|Kyber.Network|Kyber.Network (KNC)|HIGH|MEDIUM|POST|KNC|3|4|1|kyber network
+199|Stox|Stox (STX)|MEDIUM|MEDIUM|POST|STX|3|3|1|stox
+200|Pylon Network|Pylon Network (PYLON)|LOW|MEDIUM|POST|PYLON|3|2|0|pylon network
+201|u.cash|u.cash (UCASH)|LOW|MEDIUM|POST|UCASH|3|2|0|u cash
+202|ETHLend|ETHLend (LEND)|MEDIUM|MEDIUM|POST|LEND|3|3|1|ethlend
+203|FinTab|FinTab (FNT)|VERY LOW|MEDIUM|POST|FNT|3|1|0|fintab
+204|Restart Energy|Restart Energy (MWAT)|HIGH|MEDIUM|POST|MWAT|3|4|1|restart energy
+205|European Crypto Bank|European Crypto Bank (ECB)|MEDIUM|MEDIUM|POST|ECB|3|3|1|european crypto bank
+206|4THPillar|4THPillar (FOUR)|MEDIUM|MEDIUM|POST|FOUR|3|3|1|4thpillar
+207|Dimcoin|Dimcoin (DIM)|HIGH|MEDIUM|POST|DIM|3|4|1|dimcoin
+208|Rigoblock|Rigoblock (GRG)|VERY LOW|MEDIUM|POST|GRG|3|1|0|rigoblock
+209|HireMatch|HireMatch (HIRE)|LOW|MEDIUM|POST|HIRE|3|2|0|hirematch
+210|etherparty|etherparty (FUEL)|HIGH|MEDIUM|POST|FUEL|3|4|1|etherparty
+211|ErosCoin|ErosCoin (ERO)|MEDIUM|MEDIUM|POST|ERO|3|3|1|eroscoin
+212|Crycash|Crycash (CRC)|MEDIUM|MEDIUM|POST|CRC|3|3|1|crycash
+213|Beluga Pay|Beluga Pay (BBI)|MEDIUM|MEDIUM|POST|BBI|3|3|1|beluga pay
+214|TEND|TEND (TND)|LOW|MEDIUM|POST|TND|3|2|0|tend
+215|Triwer|Triwer (TRW)|HIGH|MEDIUM|POST|TRW|3|4|1|triwer
+216|DataBrokerDAO|DataBrokerDAO (DTX)|MEDIUM|MEDIUM|POST|DTX|3|3|1|databrokerdao
+217|RankingBall|RankingBall (RBG)|MEDIUM|MEDIUM|POST|RBG|3|3|1|rankingball
+218|0x project|0x project (ZRX)|MEDIUM|MEDIUM|POST|ZRX|3|3|1|0x project
+219|Astronaut Capital|Astronaut Capital (ASTRO)|LOW|MEDIUM|POST|ASTRO|3|2|0|astronaut capital
+220|iBuildApp Network|iBuildApp Network (IBA)|HIGH|MEDIUM|POST|IBA|3|4|1|ibuildapp network
+221|SMSchain|SMSchain (SMSTO)|LOW|MEDIUM|POST|SMSTO|3|2|0|smschain
+222|Open Source University|Open Source University (EDU)|HIGH|MEDIUM|POST|EDU|3|4|1|open source university
+223|Squeezer|Squeezer (SQR)|HIGH|MEDIUM|POST|SQR|3|4|1|squeezer
+224|Gilgamesh|Gilgamesh (GIL)|HIGH|MEDIUM|POST|GIL|3|4|1|gilgamesh
+225|Ponder|Ponder (GOLD)|LOW|MEDIUM|POST|GOLD|3|2|0|ponder
+226|BestMeta|BestMeta (BMT)|MEDIUM|MEDIUM|POST|BMT|3|3|1|bestmeta
+227|Decentralized Machine Learning|Decentralized Machine Learning (DML)|LOW|MEDIUM|POST|DML|3|2|0|decentralized machine learning
+228|SIX Network|SIX Network (SIX)|MEDIUM|MEDIUM|POST|SIX|3|3|1|six network
+229|Dragonchain|Dragonchain (DRGN)|LOW|MEDIUM|POST|DRGN|3|2|0|dragonchain
+230|Paycent|Paycent (PYN)|HIGH|MEDIUM|POST|PYN|3|4|1|paycent
+231|Triforce Tokens|Triforce Tokens (TFT)|HIGH|MEDIUM|POST|TFT|3|4|1|triforce tokens
+232|AAA coin|AAA coin (AAA)|VERY LOW|MEDIUM|POST|AAA|3|1|0|aaa coin
+233|CyberTrust|CyberTrust (CABS)|MEDIUM|MEDIUM|POST|CABS|3|3|1|cybertrust
+234|TeleX AI|TeleX AI (TLX)|LOW|MEDIUM|POST|TLX|3|2|0|telex ai
+235|PROPS|PROPS (PROPS)|VERY HIGH|MEDIUM|POST|PROPS|3|5|1|props
+236|Morpheus Network|Morpheus Network (MORPH)|HIGH|MEDIUM|POST|MORPH|3|4|1|morpheus network
+237|LakeBanker|LakeBanker (BAC)|LOW|MEDIUM|POST|BAC|3|2|0|lakebanker
+238|Tokenlab|Tokenlab (LAB)|LOW|MEDIUM|POST|LAB|3|2|0|tokenlab
+239|WandX|WandX (WAND)|LOW|MEDIUM|POST|WAND|3|2|0|wandx
+240|Smartone|Smartone (LGL)|LOW|MEDIUM|POST|LGL|3|2|0|smartone
+241|Cashaa|Cashaa (CAS)|HIGH|MEDIUM|POST|CAS|3|4|1|cashaa
+242|RightMesh|RightMesh (RMESH)|MEDIUM|MEDIUM|POST|RMESH|3|3|1|rightmesh
+243|Bitcoin White|Bitcoin White (BTW)|HIGH|MEDIUM|POST|BTW|3|4|1|bitcoin white
+244|Taylor|Taylor (TAY)|MEDIUM|MEDIUM|POST|TAY|3|3|1|taylor
+245|Presearch|Presearch (DST)|MEDIUM|MEDIUM|POST|DST|3|3|1|presearch
+246|HydroMiner|HydroMiner (H2O)|VERY HIGH|MEDIUM|POST|H2O|3|5|1|hydrominer
+247|Proxy Card|Proxy Card (PRXY)|LOW|MEDIUM|POST|PRXY|3|2|0|proxy card
+248|Esports|Esports (ERT)|MEDIUM|MEDIUM|POST|ERT|3|3|1|esports
+249|Wala|Wala (DALA)|MEDIUM|MEDIUM|POST|DALA|3|3|1|wala
+250|Bitcomo|Bitcomo (BM)|MEDIUM|MEDIUM|POST|BM|3|3|1|bitcomo
+251|A-Token|A-Token (ATKN)|LOW|MEDIUM|POST|ATKN|3|2|0|a token
+252|Blockhive|Blockhive (HIVE)|MEDIUM|MEDIUM|POST|HIVE|3|3|1|blockhive
+253|Tokenomy|Tokenomy (TEN)|HIGH|MEDIUM|POST|TEN|3|4|1|tokenomy
+254|XinFin|XinFin (XDCE)|LOW|MEDIUM|POST|XDCE|3|2|0|xinfin
+255|CloudMoolah|CloudMoolah (XMOO)|HIGH|MEDIUM|POST|XMOO|3|4|1|cloudmoolah
+256|DIW Token|DIW Token (DIW)|VERY HIGH|MEDIUM|POST|DIW|3|5|1|diw token
+257|Indorse|Indorse (IND)|HIGH|MEDIUM|POST|IND|3|4|1|indorse
+258|Smart Investment Fund Token|Smart Investment Fund Token (SIFT)|LOW|MEDIUM|POST|SIFT|3|2|0|smart investment fund token
+259|The Agora|The Agora (AGO)|VERY LOW|MEDIUM|POST|AGO|3|1|0|the agora
+260|TRON|TRON (TRX)|HIGH|MEDIUM|POST|TRX|3|4|1|tron
+261|MediBloc|MediBloc (MED)|HIGH|MEDIUM|POST|MED|3|4|1|medibloc
+262|Hedge Token|Hedge Token (HDG)|MEDIUM|MEDIUM|POST|HDG|3|3|1|hedge token
+263|CoinDrive|CoinDrive (CDR)|LOW|MEDIUM|POST|CDR|3|2|0|coindrive
+264|Ccore|Ccore (CCO)|LOW|MEDIUM|POST|CCO|3|2|0|ccore
+265|The Praetorian Group|The Praetorian Group (PAX)|VERY LOW|MEDIUM|POST|PAX|3|1|0|the praetorian group
+266|Quantum1Net|Quantum1Net (Q1S)|LOW|MEDIUM|POST|Q1S|3|2|0|quantum1net
+267|Paymon|Paymon (PMNT)|LOW|MEDIUM|POST|PMNT|3|2|0|paymon
+268|Iconiq Lab|Iconiq Lab (ICNQ)|HIGH|MEDIUM|POST|ICNQ|3|4|1|iconiq lab
+269|QYKBAR|QYKBAR (QYK)|LOW|MEDIUM|POST|QYK|3|2|0|qykbar
+270|Merculet|Merculet (MVP)|MEDIUM|MEDIUM|POST|MVP|3|3|1|merculet
+271|Photochain|Photochain (PHT)|MEDIUM|MEDIUM|POST|PHT|3|3|1|photochain
+272|Arweave|Arweave (AR)|HIGH|MEDIUM|POST|AR|3|4|1|arweave
+273|Opakeco Foundation|Opakeco Foundation (KARMO)|LOW|MEDIUM|POST|KARMO|3|2|0|opakeco foundation
+274|Vaultbank|Vaultbank (VB)|MEDIUM|MEDIUM|POST|VB|3|3|1|vaultbank
+275|Blockport|Blockport (BPT)|MEDIUM|MEDIUM|POST|BPT|3|3|1|blockport
+276|Medicalchain|Medicalchain (MTN)|HIGH|MEDIUM|POST|MTN|3|4|1|medicalchain
+277|Elementh|Elementh (EEE)|LOW|MEDIUM|POST|EEE|3|2|0|elementh
+278|Odem|Odem (ODEM)|MEDIUM|MEDIUM|POST|ODEM|3|3|1|odem
+279|Flux|Flux (FLUX)|VERY HIGH|MEDIUM|POST|FLUX|3|5|1|flux
+280|Leadcoin|Leadcoin (LDC)|LOW|MEDIUM|POST|LDC|3|2|0|leadcoin
+281|Zebi|Zebi (ZCO)|MEDIUM|MEDIUM|POST|ZCO|3|3|1|zebi
+282|Worldopoly|Worldopoly (WPT)|HIGH|MEDIUM|POST|WPT|3|4|1|worldopoly
+283|MyBit|MyBit (MYB)|HIGH|MEDIUM|POST|MYB|3|4|1|mybit
+284|bitJob|bitJob (STU)|HIGH|MEDIUM|POST|STU|3|4|1|bitjob
+285|ChronoLogic|ChronoLogic (DAY)|LOW|MEDIUM|POST|DAY|3|2|0|chronologic
+286|xplay|xplay (XPA)|LOW|MEDIUM|POST|XPA|3|2|0|xplay
+287|Mandarin|Mandarin (MNT)|MEDIUM|MEDIUM|POST|MNT|3|3|1|mandarin
+288|Request Network|Request Network (REQ)|LOW|MEDIUM|POST|REQ|3|2|0|request network
+289|Debitum Network|Debitum Network (DEB)|LOW|MEDIUM|POST|DEB|3|2|0|debitum network
+290|Swissborg|Swissborg (CHSB)|LOW|MEDIUM|POST|CHSB|3|2|0|swissborg
+291|Crypto20|Crypto20 (C20)|HIGH|MEDIUM|POST|C20|3|4|1|crypto20
+292|Darfchain|Darfchain (DARF)|HIGH|MEDIUM|POST|DARF|3|4|1|darfchain
+293|Safe Haven|Safe Haven (SHA)|MEDIUM|MEDIUM|POST|SHA|3|3|1|safe haven
+294|TomoCoin|TomoCoin (TOMO)|HIGH|MEDIUM|POST|TOMO|3|4|1|tomocoin
+295|BunnyToken|BunnyToken (BUNNY)|HIGH|MEDIUM|POST|BUNNY|3|4|1|bunnytoken
+296|DAOstack|DAOstack (GEN)|HIGH|MEDIUM|POST|GEN|3|4|1|daostack
+297|SHOP|SHOP (SHOP)|HIGH|MEDIUM|POST|SHOP|3|4|1|shop
+298|Betex|Betex (BETEX)|MEDIUM|MEDIUM|POST|BETEX|3|3|1|betex
+299|Decentraland|Decentraland (MANA)|VERY HIGH|MEDIUM|POST|MANA|3|5|1|decentraland
+300|AIcoin|AIcoin (XAI)|MEDIUM|MEDIUM|POST|XAI|3|3|1|aicoin
+301|Anryze|Anryze (RYZ)|MEDIUM|MEDIUM|POST|RYZ|3|3|1|anryze
+302|fidentiaX|fidentiaX (FDX)|VERY LOW|MEDIUM|POST|FDX|3|1|0|fidentiax
+303|SophiaTX|SophiaTX (SPHTX)|VERY HIGH|MEDIUM|POST|SPHTX|3|5|1|sophiatx
+304|Celsius|Celsius (CEL)|HIGH|MEDIUM|POST|CEL|3|4|1|celsius
+305|Luxcess Group|Luxcess Group (LXC)|LOW|MEDIUM|POST|LXC|3|2|0|luxcess group
+306|Enkidu|Enkidu (ENK)|LOW|MEDIUM|PRE|ENK|3|2|0|enkidu
+307|ParkApp|ParkApp (CAR)|LOW|MEDIUM|POST|CAR|3|2|0|parkapp
+308|ShowMeBiz|ShowMeBiz (EXPO)|LOW|MEDIUM|POST|EXPO|3|2|0|showmebiz
+309|Evareium|Evareium (EVM)|LOW|MEDIUM|POST|EVM|3|2|0|evareium
+310|Plaza|Plaza (PLAZA)|HIGH|MEDIUM|POST|PLAZA|3|4|1|plaza
+311|Augmate|Augmate (MATE)|MEDIUM|MEDIUM|POST|MATE|3|3|1|augmate
+312|LikeCoin|LikeCoin (LikeCoin)|MEDIUM|MEDIUM|POST|LikeCoin|3|3|1|likecoin
+313|Dentacoin|Dentacoin (DCN)|HIGH|MEDIUM|POST|DCN|3|4|1|dentacoin
+314|KNOWS|KNOWS (KNOWS)|LOW|MEDIUM|POST|KNOWS|3|2|0|knows
+315|Kumo|Kumo (KMC)|VERY LOW|MEDIUM|POST|KMC|3|1|0|kumo
+316|CyberMiles|CyberMiles (CMT)|HIGH|MEDIUM|POST|CMT|3|4|1|cybermiles
+317|GIFTO|GIFTO (GIFTO)|MEDIUM|MEDIUM|POST|GIFTO|3|3|1|gifto
+318|3D-Token|3D-Token (3DT)|VERY LOW|MEDIUM|POST|3DT|3|1|0|3d token
+319|Coinseed|Coinseed (CSD)|LOW|MEDIUM|POST|CSD|3|2|0|coinseed
+320|TIM|TIM (TIM)|HIGH|MEDIUM|POST|TIM|3|4|1|tim
+321|Persona|Persona (PRS)|LOW|MEDIUM|POST|PRS|3|2|0|persona
+322|The Forge Network|The Forge Network (FRG)|LOW|MEDIUM|POST|FRG|3|2|0|the forge network
+323|Robotina|Robotina (ROX)|LOW|MEDIUM|POST|ROX|3|2|0|robotina
+324|SprintX|SprintX (SPX)|LOW|MEDIUM|POST|SPX|3|2|0|sprintx
+325|Concierge|Concierge (CGE)|HIGH|MEDIUM|POST|CGE|3|4|1|concierge
+326|TrustedHealth|TrustedHealth (TDH)|LOW|MEDIUM|POST|TDH|3|2|0|trustedhealth
+327|Multiven|Multiven (MTC)|LOW|MEDIUM|POST|MTC|3|2|0|multiven
+328|CargoCoin|CargoCoin (CRGO)|LOW|MEDIUM|POST|CRGO|3|2|0|cargocoin
+329|Swytch|Swytch (SET)|MEDIUM|MEDIUM|POST|SET|3|3|1|swytch
+330|GISC LoanCoin|GISC LoanCoin (GIS)|VERY LOW|MEDIUM|POST|GIS|3|1|0|gisc loancoin
+331|Zen Protocol|Zen Protocol (ZEN)|LOW|MEDIUM|POST|ZEN|3|2|0|zen protocol
+332|LoyalCoin|LoyalCoin (LYL)|MEDIUM|MEDIUM|POST|LYL|3|3|1|loyalcoin
+333|Handelion|Handelion (HION)|LOW|MEDIUM|POST|HION|3|2|0|handelion
+334|Adbank|Adbank (ADB)|HIGH|MEDIUM|POST|ADB|3|4|1|adbank
+335|GymCoin|GymCoin (GYM)|LOW|MEDIUM|POST|GYM|3|2|0|gymcoin
+336|Everex|Everex (EVX)|VERY HIGH|MEDIUM|POST|EVX|3|5|1|everex
+337|VibeHub|VibeHub (VIBEX)|MEDIUM|MEDIUM|POST|VIBEX|3|3|1|vibehub
+338|Scrypto|Scrypto (SRT)|LOW|MEDIUM|POST|SRT|3|2|0|scrypto
+339|Ab-chain|Ab-chain (ABC)|MEDIUM|MEDIUM|POST|ABC|3|3|1|ab chain
+340|Helbiz|Helbiz (HBZ)|MEDIUM|MEDIUM|POST|HBZ|3|3|1|helbiz
+341|MulTra|MulTra (MTT)|VERY LOW|MEDIUM|POST|MTT|3|1|0|multra
+342|IZX|IZX (IZX)|MEDIUM|MEDIUM|POST|IZX|3|3|1|izx
+343|Digital Way|Digital Way (WEI)|VERY LOW|MEDIUM|POST|WEI|3|1|0|digital way
+344|BullToken|BullToken (BULL)|LOW|MEDIUM|POST|BULL|3|2|0|bulltoken
+345|SOLAR DAO|SOLAR DAO (SDAO)|MEDIUM|MEDIUM|POST|SDAO|3|3|1|solar dao
+346|EventChain|EventChain (EVC)|MEDIUM|MEDIUM|POST|EVC|3|3|1|eventchain
+347|Mirocana|Mirocana (MIRO)|HIGH|MEDIUM|POST|MIRO|3|4|1|mirocana
+348|ClearCoin|ClearCoin (XCLR)|MEDIUM|MEDIUM|POST|XCLR|3|3|1|clearcoin
+349|SureRemit|SureRemit (RMT)|LOW|MEDIUM|POST|RMT|3|2|0|sureremit
+350|Conduit|Conduit (COND)|VERY LOW|MEDIUM|POST|COND|3|1|0|conduit
+351|Marginless|Marginless (MRS)|VERY HIGH|MEDIUM|POST|MRS|3|5|1|marginless
+352|BolttCoin|BolttCoin (BOLTT)|HIGH|MEDIUM|POST|BOLTT|3|4|1|bolttcoin
+353|Lucyd|Lucyd (LCD)|HIGH|MEDIUM|POST|LCD|3|4|1|lucyd
+354|Kuna|Kuna (KUN)|HIGH|MEDIUM|POST|KUN|3|4|1|kuna
+355|DigiPulse|DigiPulse (DGT)|LOW|MEDIUM|POST|DGT|3|2|0|digipulse
+356|Nimfamoney|Nimfamoney (NIMFA)|LOW|MEDIUM|POST|NIMFA|3|2|0|nimfamoney
+357|Impak coin|Impak coin (MPK)|LOW|MEDIUM|POST|MPK|3|2|0|impak coin
+358|tokenstub|tokenstub (STUB)|LOW|MEDIUM|POST|STUB|3|2|0|tokenstub
+359|Alloy|Alloy (ALLOY)|MEDIUM|MEDIUM|POST|ALLOY|3|3|1|alloy
+360|Windingtree|Windingtree (LIF)|HIGH|MEDIUM|POST|LIF|3|4|1|windingtree
+361|Caviar|Caviar (CAV)|MEDIUM|MEDIUM|POST|CAV|3|3|1|caviar
+362|SERENITY FINANCIAL|SERENITY FINANCIAL (SRNT)|MEDIUM|MEDIUM|POST|SRNT|3|3|1|serenity financial
+363|BlockMesh|BlockMesh (MESH)|MEDIUM|MEDIUM|POST|MESH|3|3|1|blockmesh
+364|APIS|APIS (APIS)|VERY LOW|MEDIUM|POST|APIS|3|1|0|apis
+365|DATx|DATx (DATx)|MEDIUM|MEDIUM|POST|DATx|3|3|1|datx
+366|CashBag|CashBag (CBC)|LOW|MEDIUM|POST|CBC|3|2|0|cashbag
+367|Bitcoinus|Bitcoinus (BITS)|MEDIUM|MEDIUM|POST|BITS|3|3|1|bitcoinus
+368|Krosscoin|Krosscoin (KSS)|MEDIUM|MEDIUM|POST|KSS|3|3|1|krosscoin
+369|Invox Finance|Invox Finance (INVOX)|LOW|MEDIUM|POST|INVOX|3|2|0|invox finance
+370|Iamhero|Iamhero (IAHC)|MEDIUM|MEDIUM|POST|IAHC|3|3|1|iamhero
+371|Orbis|Orbis (OBT)|HIGH|MEDIUM|POST|OBT|3|4|1|orbis
+372|BGX|BGX (BGX)|MEDIUM|MEDIUM|POST|BGX|3|3|1|bgx
+373|Agrello|Agrello (DLT)|VERY HIGH|MEDIUM|POST|DLT|3|5|1|agrello
+374|Fluence|Fluence (FLU)|LOW|MEDIUM|POST|FLU|3|2|0|fluence
+375|Jincor|Jincor (JCR)|LOW|MEDIUM|POST|JCR|3|2|0|jincor
+376|carVertical|carVertical (CV)|HIGH|MEDIUM|POST|CV|3|4|1|carvertical
+377|BOTTOS|BOTTOS (BTO)|MEDIUM|MEDIUM|POST|BTO|3|3|1|bottos
+378|KEYRPTO|KEYRPTO (KYT)|LOW|MEDIUM|POST|KYT|3|2|0|keyrpto
+379|Edgecoin|Edgecoin (EST)|LOW|MEDIUM|POST|EST|3|2|0|edgecoin
+380|VICoin|VICoin (VIC)|LOW|MEDIUM|POST|VIC|3|2|0|vicoin
+381|Pikciochain|Pikciochain (PKC)|LOW|MEDIUM|POST|PKC|3|2|0|pikciochain
+382|DACC|DACC (DACC)|HIGH|MEDIUM|POST|DACC|3|4|1|dacc
+383|VeriME|VeriME (VME)|MEDIUM|MEDIUM|POST|VME|3|3|1|verime
+384|Fusion|Fusion (FSN)|LOW|MEDIUM|POST|FSN|3|2|0|fusion
+385|EIP|EIP (EMP)|HIGH|MEDIUM|POST|EMP|3|4|1|eip
+386|Alchemint|Alchemint (SDT)|MEDIUM|MEDIUM|POST|SDT|3|3|1|alchemint
+387|Corion Platform|Corion Platform (COR)|HIGH|MEDIUM|POST|COR|3|4|1|corion platform
+388|DS Plus|DS Plus (PLC)|LOW|MEDIUM|POST|PLC|3|2|0|ds plus
+389|Aeron|Aeron (ARN)|MEDIUM|MEDIUM|POST|ARN|3|3|1|aeron
+390|Datum|Datum (DAT)|LOW|MEDIUM|POST|DAT|3|2|0|datum
+391|doc.ai|doc.ai (Neuron)|LOW|MEDIUM|POST|Neuron|3|2|0|doc ai
+392|HAZZA|HAZZA (HAZ)|LOW|MEDIUM|POST|HAZ|3|2|0|hazza
+393|Wireline|Wireline (WRL)|MEDIUM|MEDIUM|POST|WRL|3|3|1|wireline
+394|Raison|Raison (RSN)|LOW|MEDIUM|POST|RSN|3|2|0|raison
+395|Skychain|Skychain (SCH)|MEDIUM|MEDIUM|POST|SCH|3|3|1|skychain
+396|Pecunio|Pecunio (PCO)|MEDIUM|MEDIUM|POST|PCO|3|3|1|pecunio
+397|PlayHall|PlayHall (PHT)|MEDIUM|MEDIUM|POST|PHT|3|3|1|playhall
+398|CryptoCopy|CryptoCopy (COPY)|LOW|MEDIUM|POST|COPY|3|2|0|cryptocopy
+399|Cash Poker Pro|Cash Poker Pro (CASH)|LOW|MEDIUM|POST|CASH|3|2|0|cash poker pro
+400|Substratum|Substratum (SUB)|LOW|MEDIUM|POST|SUB|3|2|0|substratum
+401|Musiconomi|Musiconomi (MCI)|MEDIUM|MEDIUM|POST|MCI|3|3|1|musiconomi
+402|Cryptaur|Cryptaur (CPT)|LOW|MEDIUM|POST|CPT|3|2|0|cryptaur
+403|BitRent|BitRent (RNT)|VERY HIGH|MEDIUM|POST|RNT|3|5|1|bitrent
+404|Stamps|Stamps (STAMP)|LOW|MEDIUM|POST|STAMP|3|2|0|stamps
+405|CryptoAlias|CryptoAlias (ALS)|LOW|MEDIUM|POST|ALS|3|2|0|cryptoalias
+406|Gaming Stars|Gaming Stars (GAMES)|LOW|MEDIUM|POST|GAMES|3|2|0|gaming stars
+407|KahnChat|KahnChat (KCH)|LOW|MEDIUM|POST|KCH|3|2|0|kahnchat
+408|JoyToken|JoyToken (JOY)|LOW|MEDIUM|POST|JOY|3|2|0|joytoken
+409|RewardMob|RewardMob (RMOB)|MEDIUM|MEDIUM|POST|RMOB|3|3|1|rewardmob
+410|Futourist|Futourist (FTR)|MEDIUM|MEDIUM|POST|FTR|3|3|1|futourist
+411|Dragonglass|Dragonglass (DGS)|LOW|MEDIUM|POST|DGS|3|2|0|dragonglass
+412|Valorem foundation|Valorem foundation (VLR)|MEDIUM|MEDIUM|POST|VLR|3|3|1|valorem foundation
+413|Modex|Modex (MDX)|MEDIUM|MEDIUM|POST|MDX|3|3|1|modex
+414|Traceto|Traceto (T2T)|MEDIUM|MEDIUM|POST|T2T|3|3|1|traceto
+415|Native Video Box|Native Video Box (NVB)|MEDIUM|MEDIUM|POST|NVB|3|3|1|native video box
+416|Flying Money|Flying Money (FML)|MEDIUM|MEDIUM|POST|FML|3|3|1|flying money
+417|Affiliate Coin|Affiliate Coin (AFL)|MEDIUM|MEDIUM|POST|AFL|3|3|1|affiliate coin
+418|Crafty|Crafty (CFTY)|HIGH|MEDIUM|POST|CFTY|3|4|1|crafty
+419|Globatalent|Globatalent (GBT)|HIGH|MEDIUM|POST|GBT|3|4|1|globatalent
+420|RusCoin|RusCoin (RSC)|VERY LOW|MEDIUM|POST|RSC|3|1|0|ruscoin
+421|Golden Fleece|Golden Fleece (GFL)|MEDIUM|MEDIUM|POST|GFL|3|3|1|golden fleece
+422|Uledger|Uledger|LOW|MEDIUM|POST|nan|3|2|0|uledger
+423|Clout|Clout (CLOUT)|MEDIUM|MEDIUM|POST|CLOUT|3|3|1|clout
+424|OriginTrail|OriginTrail (TRAC)|MEDIUM|MEDIUM|POST|TRAC|3|3|1|origintrail
+425|The Bee Token|The Bee Token (BEE)|LOW|MEDIUM|POST|BEE|3|2|0|the bee token
+426|CashBet|CashBet (CBC)|LOW|MEDIUM|POST|CBC|3|2|0|cashbet
+427|Aventus|Aventus (AVT)|HIGH|MEDIUM|POST|AVT|3|4|1|aventus
+428|Monster Byte|Monster Byte (MBI)|MEDIUM|MEDIUM|POST|MBI|3|3|1|monster byte
+429|Karma|Karma (KRM)|MEDIUM|MEDIUM|POST|KRM|3|3|1|karma
+430|KickCity|KickCity (KCY)|HIGH|MEDIUM|POST|KCY|3|4|1|kickcity
+431|PayPie|PayPie (PPP)|LOW|MEDIUM|POST|PPP|3|2|0|paypie
+432|Comsa|Comsa (CMS)|VERY HIGH|MEDIUM|POST|CMS|3|5|1|comsa
+433|VuePay|VuePay (VUP)|LOW|MEDIUM|POST|VUP|3|2|0|vuepay
+434|Hdac|Hdac (DAC)|LOW|MEDIUM|POST|DAC|3|2|0|hdac
+435|Shopin|Shopin (BN)|VERY LOW|MEDIUM|POST|BN|3|1|0|shopin
+436|MeetnGreetMe|MeetnGreetMe (WEL)|HIGH|MEDIUM|POST|WEL|3|4|1|meetngreetme
+437|FLOGmall|FLOGmall (MLC)|HIGH|MEDIUM|POST|MLC|3|4|1|flogmall
+438|Alttex|Alttex (ALTX)|LOW|MEDIUM|POST|ALTX|3|2|0|alttex
+439|Akaiito|Akaiito (AIC)|MEDIUM|MEDIUM|POST|AIC|3|3|1|akaiito
+440|iOlite|iOlite (ILT)|VERY LOW|MEDIUM|POST|ILT|3|1|0|iolite
+441|Airpod|Airpod (APOD)|VERY HIGH|MEDIUM|POST|APOD|3|5|1|airpod
+442|WiC|WiC (WIC)|MEDIUM|MEDIUM|POST|WIC|3|3|1|wic
+443|Cobinhood|Cobinhood (COB)|VERY LOW|MEDIUM|POST|COB|3|1|0|cobinhood
+444|Rilcoin|Rilcoin (RIL)|LOW|MEDIUM|POST|RIL|3|2|0|rilcoin
+445|Exenium|Exenium (XNT)|LOW|MEDIUM|POST|XNT|3|2|0|exenium
+446|Distributed Credit Chain|Distributed Credit Chain (DCC)|HIGH|MEDIUM|POST|DCC|3|4|1|distributed credit chain
+447|Universal Labs|Universal Labs (YOU)|LOW|MEDIUM|POST|YOU|3|2|0|universal labs
+448|Korona|Korona (Korona Token)|MEDIUM|MEDIUM|POST|Korona Token|3|3|1|korona
+449|CoinUs|CoinUs (CNUS)|VERY LOW|MEDIUM|POST|CNUS|3|1|0|coinus
+450|RootProject|RootProject (ROOTS)|MEDIUM|MEDIUM|POST|ROOTS|3|3|1|rootproject
+451|Revain|Revain (R)|MEDIUM|MEDIUM|POST|R|3|3|1|revain
+452|Share Estate|Share Estate (SRE)|LOW|MEDIUM|POST|SRE|3|2|0|share estate
+453|DOVU|DOVU (DOVU)|HIGH|MEDIUM|POST|DOVU|3|4|1|dovu
+454|Avrorum|Avrorum (AVRO)|LOW|MEDIUM|POST|AVRO|3|2|0|avrorum
+455|Ignite Ratings|Ignite Ratings (IGNT)|LOW|MEDIUM|POST|IGNT|3|2|0|ignite ratings
+456|LiveTree Adept|LiveTree Adept (SEED)|HIGH|MEDIUM|POST|SEED|3|4|1|livetree adept
+457|Carboneum|Carboneum (C8)|HIGH|MEDIUM|POST|C8|3|4|1|carboneum
+458|Jet8|Jet8 (J8T)|LOW|MEDIUM|POST|J8T|3|2|0|jet8
+459|Miner One|Miner One (MIO)|LOW|MEDIUM|POST|MIO|3|2|0|miner one
+460|PumaPay|PumaPay (PMA)|MEDIUM|MEDIUM|POST|PMA|3|3|1|pumapay
+461|Market.space|Market.space (MASP)|VERY HIGH|MEDIUM|POST|MASP|3|5|1|market space
+462|Bitxoxo|Bitxoxo (XOXO)|VERY HIGH|MEDIUM|POST|XOXO|3|5|1|bitxoxo
+463|TrueBit|TrueBit (TM)|VERY LOW|MEDIUM|POST|TM|3|1|0|truebit
+464|OpenZen|OpenZen (ZNT)|LOW|MEDIUM|POST|ZNT|3|2|0|openzen
+465|Titanium Blockchain Infrastructure Services|Titanium Blockchain Infrastructure Services (TBIS)|VERY HIGH|MEDIUM|POST|TBIS|3|5|1|titanium blockchain infrastructure services
+466|Like Real Estate Platform|Like Real Estate Platform (LIKE)|MEDIUM|MEDIUM|POST|LIKE|3|3|1|like real estate platform
+467|Aditus|Aditus (ADITUS)|MEDIUM|MEDIUM|POST|ADITUS|3|3|1|aditus
+468|Arcade City|Arcade City (ARCD)|HIGH|MEDIUM|POST|ARCD|3|4|1|arcade city
+469|Red Lanterns|Red Lanterns (REDL)|LOW|MEDIUM|POST|REDL|3|2|0|red lanterns
+470|BACE|BACE (BACE)|MEDIUM|MEDIUM|POST|BACE|3|3|1|bace
+471|OpenPoll|OpenPoll (POL)|VERY LOW|MEDIUM|POST|POL|3|1|0|openpoll
+472|FIXY Network|FIXY Network (FXY)|MEDIUM|MEDIUM|POST|FXY|3|3|1|fixy network
+473|Publica|Publica (READ)|VERY LOW|MEDIUM|POST|READ|3|1|0|publica
+474|WordCoin|WordCoin (WORD)|MEDIUM|MEDIUM|POST|WORD|3|3|1|wordcoin
+475|Leverj|Leverj (LEV)|HIGH|MEDIUM|POST|LEV|3|4|1|leverj
+476|BitCoen|BitCoen (BEN)|LOW|MEDIUM|POST|BEN|3|2|0|bitcoen
+477|Inspeer|Inspeer (INSP)|LOW|MEDIUM|POST|INSP|3|2|0|inspeer
+478|Cube|Cube (CUBE)|LOW|MEDIUM|POST|CUBE|3|2|0|cube
+479|Coinhealth|Coinhealth (CH)|LOW|MEDIUM|POST|CH|3|2|0|coinhealth
+480|TokenGo|TokenGo (GPT)|LOW|MEDIUM|POST|GPT|3|2|0|tokengo
+481|OnPlace|OnPlace (OPL)|MEDIUM|MEDIUM|POST|OPL|3|3|1|onplace
+482|Ternio|Ternio (TERN)|VERY HIGH|MEDIUM|POST|TERN|3|5|1|ternio
+483|EasyMINE|EasyMINE (EMT)|MEDIUM|MEDIUM|POST|EMT|3|3|1|easymine
+484|Protostarr|Protostarr (PSR)|LOW|MEDIUM|POST|PSR|3|2|0|protostarr
+485|Sharpe Capital|Sharpe Capital (SHP)|MEDIUM|MEDIUM|POST|SHP|3|3|1|sharpe capital
+486|ZeroSum|ZeroSum (ZFX)|LOW|MEDIUM|POST|ZFX|3|2|0|zerosum
+487|FCFL|FCFL (FAN)|HIGH|MEDIUM|POST|FAN|3|4|1|fcfl
+488|Global ICO Fund|Global ICO Fund (GLIF)|LOW|MEDIUM|POST|GLIF|3|2|0|global ico fund
+489|Switcheo Network|Switcheo Network (SWH)|LOW|MEDIUM|POST|SWH|3|2|0|switcheo network
+490|IIoT|IIoT (I2)|LOW|MEDIUM|POST|I2|3|2|0|iiot
+491|Hybrid Block|Hybrid Block (HYB)|HIGH|MEDIUM|POST|HYB|3|4|1|hybrid block
+492|Global REIT|Global REIT (GRET/GREM)|HIGH|MEDIUM|POST|GRET/GREM|3|4|1|global reit
+493|BeOne|BeOne (B1)|MEDIUM|MEDIUM|POST|B1|3|3|1|beone
+494|ALLCHAIN|ALLCHAIN (AIA)|LOW|MEDIUM|POST|AIA|3|2|0|allchain
+495|Narrative|Narrative (NRV)|VERY LOW|MEDIUM|POST|NRV|3|1|0|narrative
+496|DIMPAY|DIMPAY (DIM)|MEDIUM|MEDIUM|POST|DIM|3|3|1|dimpay
+497|Ethorse|Ethorse (HORSE)|LOW|MEDIUM|POST|HORSE|3|2|0|ethorse
+498|Unilot|Unilot (UNIT)|LOW|MEDIUM|POST|UNIT|3|2|0|unilot
+499|AdSigma|AdSigma (ADSi)|LOW|MEDIUM|POST|ADSi|3|2|0|adsigma
+500|Envion|Envion (EVN)|HIGH|MEDIUM|POST|EVN|3|4|1|envion
+501|InsureX|InsureX (IXT)|MEDIUM|MEDIUM|POST|IXT|3|3|1|insurex
+502|Rivetz|Rivetz (RVT)|MEDIUM|MEDIUM|POST|RVT|3|3|1|rivetz
+503|Skrilla|Skrilla (SKR)|VERY LOW|MEDIUM|POST|SKR|3|1|0|skrilla
+504|OPEN|OPEN (OPEN)|MEDIUM|MEDIUM|POST|OPEN|3|3|1|open
+505|Notary|Notary (NTRY)|MEDIUM|MEDIUM|POST|NTRY|3|3|1|notary
+506|Witcoin|Witcoin (WIT)|MEDIUM|MEDIUM|POST|WIT|3|3|1|witcoin
+507|CrowdCoinage|CrowdCoinage (CCOS)|VERY LOW|MEDIUM|POST|CCOS|3|1|0|crowdcoinage
+508|Engagement Token|Engagement Token (EGT)|LOW|MEDIUM|POST|EGT|3|2|0|engagement token
+509|Metronome|Metronome (MET)|MEDIUM|MEDIUM|POST|MET|3|3|1|metronome
+510|Medichain|Medichain (MCU)|MEDIUM|MEDIUM|POST|MCU|3|3|1|medichain
+511|1WorldBlockchain|1WorldBlockchain (WBD)|LOW|MEDIUM|POST|WBD|3|2|0|1worldblockchain
+512|Sentinel Chain|Sentinel Chain (SENC)|LOW|MEDIUM|POST|SENC|3|2|0|sentinel chain
+513|Bonkers|Bonkers (BNKR)|MEDIUM|MEDIUM|POST|BNKR|3|3|1|bonkers
+514|TTC Protocol|TTC Protocol (TTC)|HIGH|MEDIUM|POST|TTC|3|4|1|ttc protocol
+515|SunMoney|SunMoney (SMT)|MEDIUM|MEDIUM|POST|SMT|3|3|1|sunmoney
+516|Shopiblock|Shopiblock (SHB)|HIGH|MEDIUM|POST|SHB|3|4|1|shopiblock
+517|Neblio|Neblio (NEBL)|MEDIUM|MEDIUM|POST|NEBL|3|3|1|neblio
+518|Prosume|Prosume (PEF)|VERY LOW|MEDIUM|POST|PEF|3|1|0|prosume
+519|Chain ID|Chain ID (CID)|LOW|MEDIUM|POST|CID|3|2|0|chain id
+520|HERO Token|HERO Token (HERO)|HIGH|MEDIUM|POST|HERO|3|4|1|hero token
+521|PayPro|PayPro (PIP)|HIGH|MEDIUM|POST|PIP|3|4|1|paypro
+522|Etherty|Etherty (ETY)|LOW|MEDIUM|POST|ETY|3|2|0|etherty
+523|Decibels|Decibels (DCBL)|LOW|MEDIUM|POST|DCBL|3|2|0|decibels
+524|Sint|Sint (SIN)|MEDIUM|MEDIUM|POST|SIN|3|3|1|sint
+525|Cartel Coin|Cartel Coin (CRTL)|VERY LOW|MEDIUM|POST|CRTL|3|1|0|cartel coin
+526|BitDice Casino|BitDice Casino (CSNO)|MEDIUM|MEDIUM|POST|CSNO|3|3|1|bitdice casino
+527|Power Ledger|Power Ledger (POWR)|MEDIUM|MEDIUM|POST|POWR|3|3|1|power ledger
+528|Flypme|Flypme (FYP)|LOW|MEDIUM|POST|FYP|3|2|0|flypme
+529|Anacoin|Anacoin (ANAT)|LOW|MEDIUM|POST|ANAT|3|2|0|anacoin
+530|DEScrow|DEScrow (DES)|LOW|MEDIUM|POST|DES|3|2|0|descrow
+531|Bitspark|Bitspark (Zephyr)|MEDIUM|MEDIUM|POST|Zephyr|3|3|1|bitspark
+532|WishFinance|WishFinance (WSH)|LOW|MEDIUM|POST|WSH|3|2|0|wishfinance
+533|AdMine|AdMine (MCN)|MEDIUM|MEDIUM|POST|MCN|3|3|1|admine
+534|Bill&Go|Bill&Go (BGO)|VERY LOW|MEDIUM|POST|BGO|3|1|0|bill go
+535|APPICS|APPICS (XAP)|LOW|MEDIUM|POST|XAP|3|2|0|appics
+536|GoChain|GoChain (GOC)|HIGH|MEDIUM|POST|GOC|3|4|1|gochain
+537|The Deal Coin|The Deal Coin (DLSD)|MEDIUM|MEDIUM|POST|DLSD|3|3|1|the deal coin
+538|FundCoin|FundCoin (FND)|LOW|MEDIUM|POST|FND|3|2|0|fundcoin
+539|Pluscoin|Pluscoin (PLC)|VERY LOW|MEDIUM|POST|PLC|3|1|0|pluscoin
+540|Rpay|Rpay (RTK)|LOW|MEDIUM|POST|RTK|3|2|0|rpay
+541|Rhea|Rhea (RHT)|LOW|MEDIUM|POST|RHT|3|2|0|rhea
+542|Galaxy eSolution|Galaxy eSolution (GES)|VERY LOW|MEDIUM|POST|GES|3|1|0|galaxy esolution
+543|Enjoy life|Enjoy life (ENJL)|MEDIUM|MEDIUM|POST|ENJL|3|3|1|enjoy life
+544|Thrive|Thrive (THRT)|LOW|MEDIUM|POST|THRT|3|2|0|thrive
+545|Equitybase|Equitybase (BASE)|LOW|MEDIUM|POST|BASE|3|2|0|equitybase
+546|Safinus|Safinus (SAF)|MEDIUM|MEDIUM|POST|SAF|3|3|1|safinus
+547|ICONIC|ICONIC (NIC)|LOW|MEDIUM|POST|NIC|3|2|0|iconic
+548|Property Coin|Property Coin (PCX)|LOW|MEDIUM|POST|PCX|3|2|0|property coin
+549|Lunes|Lunes (LNS)|MEDIUM|MEDIUM|POST|LNS|3|3|1|lunes
+550|Cosplay Token|Cosplay Token (COT)|HIGH|MEDIUM|POST|COT|3|4|1|cosplay token
+551|Irene|Irene (TLU)|MEDIUM|MEDIUM|POST|TLU|3|3|1|irene
+552|Tripago|Tripago (TPG)|MEDIUM|MEDIUM|POST|TPG|3|3|1|tripago
+553|Target Coin|Target Coin (TGT)|LOW|HIGH|POST|TGT|4|2|0|target coin
+554|Mothership|Mothership (MSP)|HIGH|HIGH|POST|MSP|4|4|1|mothership
+555|FaceCoin|FaceCoin (FC)|VERY LOW|HIGH|POST|FC|4|1|0|facecoin
+556|HASH RUSH|HASH RUSH (RC)|LOW|HIGH|POST|RC|4|2|0|hash rush
+557|Genesis World|Genesis World (GEN)|VERY LOW|HIGH|POST|GEN|4|1|0|genesis world
+558|Synapse|Synapse (SYN)|LOW|HIGH|POST|SYN|4|2|0|synapse
+559|GMP|GMP (GMP)|MEDIUM|HIGH|POST|GMP|4|3|1|gmp
+560|Nitro|Nitro (NOX)|VERY HIGH|HIGH|POST|NOX|4|5|1|nitro
+561|TrenditStudios|TrenditStudios (TND)|LOW|HIGH|POST|TND|4|2|0|trenditstudios
+562|Fabric Token|Fabric Token (FT)|MEDIUM|HIGH|POST|FT|4|3|1|fabric token
+563|redBUX|redBUX (BUX)|VERY LOW|HIGH|POST|BUX|4|1|0|redbux
+564|CoinJanitor|CoinJanitor (JAN)|HIGH|HIGH|POST|JAN|4|4|1|coinjanitor
+565|8 Circuit Studios|8 Circuit Studios (8BT)|VERY LOW|HIGH|POST|8BT|4|1|0|8 circuit studios
+566|DetectorToken|DetectorToken (DTCT)|LOW|HIGH|POST|DTCT|4|2|0|detectortoken
+567|ALIS|ALIS (ALIS)|HIGH|HIGH|POST|ALIS|4|4|1|alis
+568|Smart holdem|Smart holdem (STH)|LOW|HIGH|POST|STH|4|2|0|smart holdem
+569|MCX|MCX (MCX)|VERY LOW|HIGH|POST|MCX|4|1|0|mcx
+570|Zabercoin|Zabercoin (ZAB)|MEDIUM|HIGH|POST|ZAB|4|3|1|zabercoin
+571|eGold|eGold (EGL)|LOW|HIGH|POST|EGL|4|2|0|egold
+572|Skraps|Skraps (SKRP)|LOW|HIGH|POST|SKRP|4|2|0|skraps
+573|Eximchain|Eximchain (EXC)|LOW|HIGH|POST|EXC|4|2|0|eximchain
+574|Tontine Trust|Tontine Trust (TON)|MEDIUM|HIGH|POST|TON|4|3|1|tontine trust
+575|Techspecs|Techspecs (SPC)|MEDIUM|HIGH|POST|SPC|4|3|1|techspecs
+576|Lightcash|Lightcash (LCCT)|MEDIUM|HIGH|POST|LCCT|4|3|1|lightcash
+577|Yield Coin|Yield Coin (YLD)|LOW|HIGH|POST|YLD|4|2|0|yield coin
+578|Monkey Capital|Monkey Capital (MNY)|MEDIUM|HIGH|POST|MNY|4|3|1|monkey capital
+579|Empire Card|Empire Card (EMP)|VERY LOW|HIGH|POST|EMP|4|1|0|empire card
+580|the Dome|the Dome (DME)|MEDIUM|HIGH|POST|DME|4|3|1|the dome
+581|bitAir|bitAir (BTCA)|LOW|HIGH|POST|BTCA|4|2|0|bitair
+582|Multibot|Multibot (MBT)|VERY LOW|HIGH|POST|MBT|4|1|0|multibot
+583|Mining now|Mining now (MNW)|LOW|HIGH|POST|MNW|4|2|0|mining now
+584|charitySPACE|charitySPACE (CHT)|VERY LOW|HIGH|POST|CHT|4|1|0|charityspace
+585|DIGIT|DIGIT (DIGIT)|LOW|HIGH|POST|DIGIT|4|2|0|digit
+586|Oris.Space|Oris.Space (ORGN)|MEDIUM|HIGH|POST|ORGN|4|3|1|oris space
+587|Utemis|Utemis (UTS)|VERY LOW|HIGH|POST|UTS|4|1|0|utemis
+588|Real Casino|Real Casino (CHIP)|MEDIUM|HIGH|POST|CHIP|4|3|1|real casino
+589|KWHCoin|KWHCoin (KWH)|MEDIUM|HIGH|POST|KWH|4|3|1|kwhcoin
+590|Ecex Exchange|Ecex Exchange (ZIG)|LOW|HIGH|POST|ZIG|4|2|0|ecex exchange
+591|Yggdrash|Yggdrash (YEED)|MEDIUM|HIGH|POST|YEED|4|3|1|yggdrash
+592|CellBlocks|CellBlocks (CLBK)|MEDIUM|HIGH|POST|CLBK|4|3|1|cellblocks
+593|Digmus|Digmus (GEN)|LOW|HIGH|POST|GEN|4|2|0|digmus
+594|CoinCrowd|CoinCrowd (XCC)|LOW|HIGH|POST|XCC|4|2|0|coincrowd
+595|Earth Token|Earth Token (EARTH)|VERY LOW|HIGH|POST|EARTH|4|1|0|earth token
+596|Smartlands|Smartlands (SLT)|HIGH|HIGH|POST|SLT|4|4|1|smartlands
+597|Fund Platform|Fund Platform (FUND)|MEDIUM|HIGH|POST|FUND|4|3|1|fund platform
+598|VARcrypt|VARcrypt (VAR)|LOW|HIGH|POST|VAR|4|2|0|varcrypt
+599|Social Wallet|Social Wallet (WIRE)|MEDIUM|HIGH|POST|WIRE|4|3|1|social wallet
+600|Blocksquare|Blocksquare (BST)|LOW|HIGH|POST|BST|4|2|0|blocksquare
+601|Save Environment Token|Save Environment Token (SET)|MEDIUM|HIGH|POST|SET|4|3|1|save environment token
+602|Instacoin|Instacoin (INSTA)|LOW|HIGH|POST|INSTA|4|2|0|instacoin
+603|Coin Loan|Coin Loan (CLT)|MEDIUM|HIGH|POST|CLT|4|3|1|coin loan
+604|BeefCoin|BeefCoin (BEEF)|LOW|HIGH|POST|BEEF|4|2|0|beefcoin
+605|Guardium|Guardium (GUARDIUM)|LOW|HIGH|POST|GUARDIUM|4|2|0|guardium
+606|EVEN|EVEN (ENV)|MEDIUM|HIGH|POST|ENV|4|3|1|even
+607|REX|REX (REX)|MEDIUM|HIGH|POST|REX|4|3|1|rex
+608|MakeItViral|MakeItViral (MIV)|MEDIUM|HIGH|POST|MIV|4|3|1|makeitviral
+609|Signal Trading|Signal Trading (SGNL)|LOW|HIGH|POST|SGNL|4|2|0|signal trading
+610|BREM|BREM (BREM)|LOW|HIGH|POST|BREM|4|2|0|brem
+611|Popultrade|Popultrade (PCP)|LOW|HIGH|POST|PCP|4|2|0|popultrade
+612|LALA World|LALA World (LALA)|LOW|HIGH|POST|LALA|4|2|0|lala world
+613|MovementApp|MovementApp (MOVE)|LOW|HIGH|POST|MOVE|4|2|0|movementapp
+614|MultiGames|MultiGames (MLT)|VERY LOW|HIGH|POST|MLT|4|1|0|multigames
+615|Synthetics Ai|Synthetics Ai (SYNT)|HIGH|HIGH|POST|SYNT|4|4|1|synthetics ai
+616|New Royals|New Royals (NRG)|LOW|HIGH|POST|NRG|4|2|0|new royals
+617|Follex|Follex (SET)|LOW|HIGH|POST|SET|4|2|0|follex
+618|LanceChain|LanceChain (LANC)|MEDIUM|HIGH|POST|LANC|4|3|1|lancechain
+619|SoccerChain|SoccerChain (SOC)|VERY LOW|HIGH|POST|SOC|4|1|0|soccerchain
+620|CryptoSlots|CryptoSlots (SPIN)|VERY LOW|HIGH|POST|SPIN|4|1|0|cryptoslots
+621|Vote Coin|Vote Coin (VOT)|VERY LOW|HIGH|POST|VOT|4|1|0|vote coin
+622|INDICOIN|INDICOIN (INDI)|LOW|HIGH|POST|INDI|4|2|0|indicoin
+623|TOR-Q-ALL|TOR-Q-ALL (TRQ)|VERY LOW|HIGH|POST|TRQ|4|1|0|tor q all
+624|Fiinu|Fiinu (FNU)|LOW|HIGH|POST|FNU|4|2|0|fiinu
+625|BananaCoin|BananaCoin (BCO)|MEDIUM|HIGH|POST|BCO|4|3|1|bananacoin
+626|OKOIN|OKOIN (OKOIN)|LOW|HIGH|POST|OKOIN|4|2|0|okoin
+627|Wi-Fi Global|Wi-Fi Global (GFI)|MEDIUM|HIGH|POST|GFI|4|3|1|wi fi global
+628|BTC Green|BTC Green (BTCG)|LOW|HIGH|POST|BTCG|4|2|0|btc green
+629|Etheera|Etheera (ETA)|LOW|HIGH|POST|ETA|4|2|0|etheera
+630|Superbloom|Superbloom (SEED)|MEDIUM|HIGH|POST|SEED|4|3|1|superbloom
+631|Paragon Coin|Paragon Coin (PRG)|VERY HIGH|HIGH|POST|PRG|4|5|1|paragon coin
+632|BCDiploma|BCDiploma (BCDT)|LOW|HIGH|POST|BCDT|4|2|0|bcdiploma
+633|Electrify.Asia|Electrify.Asia (ELEC)|MEDIUM|HIGH|POST|ELEC|4|3|1|electrify asia
+634|MAVRO|MAVRO (MVR)|VERY HIGH|HIGH|POST|MVR|4|5|1|mavro
+635|Disledger|Disledger (DCL)|LOW|HIGH|POST|DCL|4|2|0|disledger
+636|Cryptogene|Cryptogene (CGT)|MEDIUM|HIGH|POST|CGT|4|3|1|cryptogene
+637|bannercoin|bannercoin (BCOIN)|LOW|HIGH|POST|BCOIN|4|2|0|bannercoin
+638|Value Coin|Value Coin (VC)|VERY LOW|HIGH|POST|VC|4|1|0|value coin
+639|AMPLE!|AMPLE! (ACO)|MEDIUM|HIGH|POST|ACO|4|3|1|ample 
+640|Bob`s Repair|Bob`s Repair (BOB)|MEDIUM|HIGH|POST|BOB|4|3|1|bob s repair
+641|Bitto|Bitto (BITTo)|MEDIUM|HIGH|POST|BITTo|4|3|1|bitto
+642|Rate Date|Rate Date (RDT)|LOW|HIGH|POST|RDT|4|2|0|rate date
+643|Fresco|Fresco (FRES)|LOW|HIGH|POST|FRES|4|2|0|fresco
+644|LCCX|LCCX (LXT)|LOW|HIGH|POST|LXT|4|2|0|lccx
+645|MF Chain|MF Chain (MFX)|VERY HIGH|HIGH|POST|MFX|4|5|1|mf chain
+646|Peur|Peur (PURC)|HIGH|HIGH|POST|PURC|4|4|1|peur
+647|Harbour|Harbour (HRB)|MEDIUM|HIGH|POST|HRB|4|3|1|harbour
+648|Payfair|Payfair (PFR)|LOW|HIGH|POST|PFR|4|2|0|payfair
+649|Daily Coin|Daily Coin (DLC)|LOW|HIGH|POST|DLC|4|2|0|daily coin
+650|FoodCoin EcoSystem|FoodCoin EcoSystem (FOOD)|MEDIUM|HIGH|POST|FOOD|4|3|1|foodcoin ecosystem
+651|Synthestech|Synthestech (STT)|MEDIUM|HIGH|POST|STT|4|3|1|synthestech
+652|Ether Legends|Ether Legends (ELET)|VERY LOW|HIGH|POST|ELET|4|1|0|ether legends
+653|ySign|ySign (YSN)|MEDIUM|HIGH|POST|YSN|4|3|1|ysign
+654|MOS Lottery|MOS Lottery (MOS)|MEDIUM|HIGH|POST|MOS|4|3|1|mos lottery
+655|LivingOffset|LivingOffset (LOFF)|MEDIUM|HIGH|POST|LOFF|4|3|1|livingoffset
+656|BitImage|BitImage (BIM)|MEDIUM|HIGH|POST|BIM|4|3|1|bitimage
+657|VanillaPlay|VanillaPlay (VPY)|VERY LOW|HIGH|POST|VPY|4|1|0|vanillaplay
+658|TopProfit|TopProfit (TOP)|LOW|HIGH|POST|TOP|4|2|0|topprofit
+659|Fidcom|Fidcom (FIDC)|VERY LOW|HIGH|POST|FIDC|4|1|0|fidcom
+660|AERO token|AERO token (AERO)|VERY LOW|HIGH|POST|AERO|4|1|0|aero token
+661|Farad|Farad (FRD)|HIGH|HIGH|POST|FRD|4|4|1|farad
+662|Cryptex Network|Cryptex Network (XET)|VERY LOW|HIGH|POST|XET|4|1|0|cryptex network
+663|Local world forwarder|Local world forwarder (LWF)|LOW|HIGH|POST|LWF|4|2|0|local world forwarder
+664|Dragon Coin|Dragon Coin (DRG)|MEDIUM|HIGH|POST|DRG|4|3|1|dragon coin
+665|Peculium|Peculium (PCL)|HIGH|HIGH|POST|PCL|4|4|1|peculium
+666|Power|Power (POWER)|LOW|HIGH|POST|POWER|4|2|0|power
+667|Sapphire Coin|Sapphire Coin (SPH)|MEDIUM|HIGH|POST|SPH|4|3|1|sapphire coin
+668|CryptalDash|CryptalDash (CRD)|MEDIUM|HIGH|POST|CRD|4|3|1|cryptaldash
+669|Nollycoin|Nollycoin (NOLLY)|LOW|HIGH|POST|NOLLY|4|2|0|nollycoin
+670|Sancoj|Sancoj (SANC)|HIGH|HIGH|POST|SANC|4|4|1|sancoj
+671|Arbi|Arbi (ARBI)|LOW|HIGH|POST|ARBI|4|2|0|arbi
+672|HealthHeart|HealthHeart (EHR)|LOW|HIGH|POST|EHR|4|2|0|healthheart
+673|Fire Lotto|Fire Lotto (FLOT)|LOW|HIGH|POST|FLOT|4|2|0|fire lotto
+674|SMARTRealty|SMARTRealty (RLTY)|VERY LOW|HIGH|POST|RLTY|4|1|0|smartrealty
+675|Blockscart|Blockscart (BLOC)|LOW|HIGH|POST|BLOC|4|2|0|blockscart
+676|Moonlite|Moonlite (MNL)|MEDIUM|HIGH|POST|MNL|4|3|1|moonlite
+677|Root Blockchain|Root Blockchain (RBC)|HIGH|HIGH|POST|RBC|4|4|1|root blockchain
+678|WeGold|WeGold (WGD)|MEDIUM|HIGH|POST|WGD|4|3|1|wegold
+679|FiCoin|FiCoin (FiC)|LOW|HIGH|POST|FiC|4|2|0|ficoin
+680|CoinCasino|CoinCasino (CAS)|VERY LOW|HIGH|POST|CAS|4|1|0|coincasino
+681|Reporter Community|Reporter Community (NEWS)|LOW|HIGH|POST|NEWS|4|2|0|reporter community
+682|Kript|Kript (KRPT)|LOW|HIGH|POST|KRPT|4|2|0|kript
+683|Crestonium|Crestonium (CXS)|LOW|HIGH|POST|CXS|4|2|0|crestonium
+684|Corl|Corl (CRL)|HIGH|HIGH|POST|CRL|4|4|1|corl
+685|SmartO|SmartO (STO)|LOW|HIGH|POST|STO|4|2|0|smarto
+686|SPINDLE|SPINDLE (SPD)|LOW|HIGH|POST|SPD|4|2|0|spindle
+687|Virtual Cash Back|Virtual Cash Back (VCB)|LOW|HIGH|POST|VCB|4|2|0|virtual cash back
+688|YouTweak|YouTweak (YTI)|VERY LOW|HIGH|POST|YTI|4|1|0|youtweak
+689|IHT|IHT (IHT)|MEDIUM|HIGH|POST|IHT|4|3|1|iht
+690|Tokia|Tokia (TKA)|MEDIUM|HIGH|POST|TKA|4|3|1|tokia
+691|Bridge Protocol|Bridge Protocol (IAM)|MEDIUM|HIGH|POST|IAM|4|3|1|bridge protocol
+692|AlibabaCoin|AlibabaCoin (ABBC)|HIGH|HIGH|POST|ABBC|4|4|1|alibabacoin
+693|HostCoin|HostCoin (HOSTC)|LOW|HIGH|POST|HOSTC|4|2|0|hostcoin
+694|Change Chain|Change Chain (CGC)|LOW|HIGH|POST|CGC|4|2|0|change chain
+695|LoanBit|LoanBit (LBT)|LOW|HIGH|POST|LBT|4|2|0|loanbit
+696|Art Coin Fund|Art Coin Fund (ACF)|LOW|HIGH|POST|ACF|4|2|0|art coin fund
+697|WCX|WCX (WCXT)|HIGH|HIGH|POST|WCXT|4|4|1|wcx
+698|Amor|Amor (AMOR)|HIGH|HIGH|POST|AMOR|4|4|1|amor
+699|PriorityEx|PriorityEx (PYX)|MEDIUM|HIGH|POST|PYX|4|3|1|priorityex
+700|STASH|STASH (STP)|HIGH|HIGH|POST|STP|4|4|1|stash
+701|GN Compass|GN Compass (GNCT)|LOW|HIGH|POST|GNCT|4|2|0|gn compass
+702|Bronix|Bronix (BRX)|LOW|HIGH|POST|BRX|4|2|0|bronix
+703|Gas Files|Gas Files (GAS)|LOW|HIGH|POST|GAS|4|2|0|gas files
+704|Cultural Places|Cultural Places (CC)|LOW|HIGH|POST|CC|4|2|0|cultural places
+705|Actioncoin|Actioncoin (ACTN)|LOW|HIGH|POST|ACTN|4|2|0|actioncoin
+706|ODUWA|ODUWA (OWC)|VERY LOW|HIGH|POST|OWC|4|1|0|oduwa
+707|Hedge Coin Capital|Hedge Coin Capital (HCL)|LOW|HIGH|POST|HCL|4|2|0|hedge coin capital
+708|AllStocks|AllStocks (AST)|HIGH|HIGH|POST|AST|4|4|1|allstocks
+709|Go Live|Go Live (GLET)|VERY LOW|HIGH|POST|GLET|4|1|0|go live
+710|Betstreak|Betstreak (BST)|LOW|HIGH|POST|BST|4|2|0|betstreak
+711|Cryptotask|Cryptotask (CTF)|MEDIUM|HIGH|POST|CTF|4|3|1|cryptotask
+712|Luckbox|Luckbox (LCK)|LOW|HIGH|POST|LCK|4|2|0|luckbox
+713|OLXA|OLXA (OLXA)|MEDIUM|HIGH|POST|OLXA|4|3|1|olxa
+714|Countinghouse|Countinghouse (CHT)|LOW|HIGH|POST|CHT|4|2|0|countinghouse
+715|Consentium|Consentium (CSM)|MEDIUM|HIGH|POST|CSM|4|3|1|consentium
+716|REALT|REALT (REALT)|LOW|HIGH|POST|REALT|4|2|0|realt
+717|Bit LIfe and Trust|Bit LIfe and Trust (BLT)|LOW|HIGH|POST|BLT|4|2|0|bit life and trust
+718|Ether sports|Ether sports (ESC)|MEDIUM|HIGH|POST|ESC|4|3|1|ether sports
+719|Uservice|Uservice (UST)|HIGH|HIGH|POST|UST|4|4|1|uservice
+720|Basis|Basis (BSS)|MEDIUM|HIGH|POST|BSS|4|3|1|basis
+721|MyOddz|MyOddz (ODDZ)|LOW|HIGH|POST|ODDZ|4|2|0|myoddz
+722|SuchApp|SuchApp (SPS)|MEDIUM|HIGH|POST|SPS|4|3|1|suchapp
+723|Dinero|Dinero (DNRO)|LOW|HIGH|POST|DNRO|4|2|0|dinero
+724|TravelBlock|TravelBlock (TRVL)|MEDIUM|HIGH|POST|TRVL|4|3|1|travelblock
+725|Kelta|Kelta (KLT)|LOW|HIGH|POST|KLT|4|2|0|kelta
+726|Wixlar|Wixlar (WIX)|LOW|HIGH|POST|WIX|4|2|0|wixlar
+727|Adshares|Adshares (ADST)|LOW|HIGH|POST|ADST|4|2|0|adshares
+728|Solomon Exchange|Solomon Exchange (SMNX)|HIGH|HIGH|POST|SMNX|4|4|1|solomon exchange
+729|TerraMiner|TerraMiner (TRM)|LOW|HIGH|POST|TRM|4|2|0|terraminer
+730|Gold Mine Token|Gold Mine Token (GMT)|VERY LOW|HIGH|POST|GMT|4|1|0|gold mine token
+731|SmartBillions|SmartBillions (PLAY)|LOW|HIGH|POST|PLAY|4|2|0|smartbillions
+732|Crypto Fund|Crypto Fund (DACF)|LOW|HIGH|POST|DACF|4|2|0|crypto fund
+733|Hope token|Hope token (HOPE)|VERY LOW|HIGH|POST|HOPE|4|1|0|hope token
+734|Miners At Work|Miners At Work (GNI)|LOW|HIGH|POST|GNI|4|2|0|miners at work
+735|Go Help Fund|Go Help Fund (HELP)|MEDIUM|HIGH|POST|HELP|4|3|1|go help fund
+736|OptiToken|OptiToken (OPTI)|MEDIUM|HIGH|POST|OPTI|4|3|1|optitoken
+737|FAIMA|FAIMA (MEDS)|LOW|HIGH|POST|MEDS|4|2|0|faima
+738|Blok|Blok (BLK)|LOW|HIGH|POST|BLK|4|2|0|blok
+739|Autoria|Autoria (AUT)|MEDIUM|HIGH|POST|AUT|4|3|1|autoria
+740|Relest|Relest (REST)|LOW|HIGH|POST|REST|4|2|0|relest
+741|Docademic|Docademic (MTC)|LOW|HIGH|POST|MTC|4|2|0|docademic
+742|300cubits|300cubits (TEU)|LOW|HIGH|POST|TEU|4|2|0|300cubits
+743|777.BINGO|777.BINGO (777)|MEDIUM|HIGH|POST|777|4|3|1|777 bingo
+744|Utrum|Utrum (OOT)|HIGH|HIGH|POST|OOT|4|4|1|utrum
+745|CoinJob|CoinJob (XCJ)|LOW|HIGH|POST|XCJ|4|2|0|coinjob
+746|Acumen|Acumen (AMT)|LOW|HIGH|POST|AMT|4|2|0|acumen
+747|Ice Rock Mining ICO|Ice Rock Mining ICO (ROCK2)|VERY LOW|HIGH|POST|ROCK2|4|1|0|ice rock mining ico
+748|Tapproject|Tapproject (TTT)|LOW|HIGH|POST|TTT|4|2|0|tapproject
+749|VOTES|VOTES (VOTES)|LOW|HIGH|POST|VOTES|4|2|0|votes
+750|Decent.bet|Decent.bet (DBET)|MEDIUM|HIGH|POST|DBET|4|3|1|decent bet
+751|Upfiring|Upfiring (UFR)|LOW|HIGH|POST|UFR|4|2|0|upfiring
+752|Tipper|Tipper (TIPR)|LOW|HIGH|POST|TIPR|4|2|0|tipper
+753|Bond|Bond (BFP)|MEDIUM|HIGH|POST|BFP|4|3|1|bond
+754|BitIndia|BitIndia (BITINDIA)|HIGH|HIGH|POST|BITINDIA|4|4|1|bitindia
+755|BitMinutes|BitMinutes (BTM)|HIGH|HIGH|POST|BTM|4|4|1|bitminutes
+756|BIG Token|BIG Token (BTK)|LOW|HIGH|POST|BTK|4|2|0|big token
+757|Decentralend|Decentralend (DLD)|VERY LOW|HIGH|POST|DLD|4|1|0|decentralend
+758|EnLedger|EnLedger (EEC)|VERY LOW|HIGH|POST|EEC|4|1|0|enledger
+759|Rent Token|Rent Token (RENT)|VERY LOW|HIGH|POST|RENT|4|1|0|rent token
+760|SandCoin|SandCoin (SND)|LOW|HIGH|POST|SND|4|2|0|sandcoin
+761|MindLink|MindLink (ML)|VERY LOW|HIGH|POST|ML|4|1|0|mindlink
+762|SilverBit|SilverBit (SLV)|LOW|HIGH|POST|SLV|4|2|0|silverbit
+763|Conn3x|Conn3x (C3X)|LOW|HIGH|POST|C3X|4|2|0|conn3x
+764|NetworkUnits|NetworkUnits (NU)|LOW|HIGH|POST|NU|4|2|0|networkunits
+765|Real Property Token|Real Property Token (RPT)|MEDIUM|HIGH|POST|RPT|4|3|1|real property token
+766|DeCoin|DeCoin (DCI)|VERY LOW|HIGH|POST|DCI|4|1|0|decoin
+767|Whitemoney|Whitemoney (WCO)|MEDIUM|HIGH|POST|WCO|4|3|1|whitemoney
+768|DRIVR Network|DRIVR Network (DVR)|LOW|HIGH|POST|DVR|4|2|0|drivr network
+769|XiWATT|XiWATT (XIW)|LOW|HIGH|POST|XIW|4|2|0|xiwatt
+770|Bcharity|Bcharity (CHAR)|HIGH|HIGH|POST|CHAR|4|4|1|bcharity
+771|Thorium|Thorium (THOR)|LOW|HIGH|POST|THOR|4|2|0|thorium
+772|DogRacing|DogRacing (DGR)|LOW|HIGH|POST|DGR|4|2|0|dogracing
+773|Market Maker|Market Maker (MMC)|LOW|HIGH|POST|MMC|4|2|0|market maker
+774|Customizable Basic Income|Customizable Basic Income (CBI)|VERY LOW|HIGH|POST|CBI|4|1|0|customizable basic income
+775|KeY|KeY (KEY)|LOW|HIGH|POST|KEY|4|2|0|key
+776|AcademyCoin|AcademyCoin (AC3)|LOW|HIGH|POST|AC3|4|2|0|academycoin
+777|GoldMineCoin|GoldMineCoin (GMC)|LOW|HIGH|POST|GMC|4|2|0|goldminecoin
+778|Vice Industry Token|Vice Industry Token (VIT)|HIGH|HIGH|POST|VIT|4|4|1|vice industry token
+779|CryptoBulls Coin|CryptoBulls Coin (CBX)|LOW|HIGH|POST|CBX|4|2|0|cryptobulls coin
+780|ICO HeadStart|ICO HeadStart (MOAT)|HIGH|HIGH|POST|MOAT|4|4|1|ico headstart
+781|JioCoin|JioCoin (JIO)|LOW|HIGH|POST|JIO|4|2|0|jiocoin
+782|Ziber|Ziber (ZIBER)|MEDIUM|HIGH|POST|ZIBER|4|3|1|ziber
+783|True Reply|True Reply (TrueCoin)|VERY LOW|HIGH|POST|TrueCoin|4|1|0|true reply
+784|prime-ex|prime-ex (PEX)|VERY LOW|HIGH|POST|PEX|4|1|0|prime ex
+785|CCCoin|CCCoin (CCC)|LOW|HIGH|POST|CCC|4|2|0|cccoin
+786|imperium|imperium (MPRM)|VERY LOW|HIGH|POST|MPRM|4|1|0|imperium
+787|CrowdDrive|CrowdDrive (CAR)|VERY LOW|HIGH|POST|CAR|4|1|0|crowddrive
+788|RICH Coin|RICH Coin (RICHX)|LOW|HIGH|POST|RICHX|4|2|0|rich coin
+789|BitEther|BitEther (BTT)|HIGH|HIGH|POST|BTT|4|4|1|bitether
+790|WaterTech|WaterTech (WATR)|MEDIUM|HIGH|POST|WATR|4|3|1|watertech
+791|iPay|iPay (IPAY)|MEDIUM|HIGH|POST|IPAY|4|3|1|ipay
+792|Sosnovkino|Sosnovkino (SNK)|LOW|HIGH|POST|SNK|4|2|0|sosnovkino
+793|Onyx|Onyx (ONYX)|LOW|HIGH|POST|ONYX|4|2|0|onyx
+794|ACADEMY|ACADEMY (ACAD)|MEDIUM|HIGH|POST|ACAD|4|3|1|academy
+795|FreelancerCoin|FreelancerCoin (LAN)|MEDIUM|HIGH|POST|LAN|4|3|1|freelancercoin
+796|Eclipse|Eclipse (ECP)|MEDIUM|HIGH|POST|ECP|4|3|1|eclipse
+797|GenRewards|GenRewards (GEN)|LOW|HIGH|POST|GEN|4|2|0|genrewards
+798|Coinless|Coinless (CLS)|LOW|HIGH|POST|CLS|4|2|0|coinless
+799|EnKo|EnKo (ENKO)|LOW|HIGH|POST|ENKO|4|2|0|enko
+800|BioPayCoin|BioPayCoin (BIO)|VERY LOW|HIGH|POST|BIO|4|1|0|biopaycoin
+801|Nukleus|Nukleus (NUK)|MEDIUM|HIGH|POST|NUK|4|3|1|nukleus
+802|Qompass|Qompass (QPSE)|HIGH|HIGH|POST|QPSE|4|4|1|qompass
+803|Blockchain Trading Fund|Blockchain Trading Fund (BTF)|VERY LOW|HIGH|POST|BTF|4|1|0|blockchain trading fund
+804|Zupply|Zupply (ZUP)|LOW|HIGH|POST|ZUP|4|2|0|zupply
+805|BeonBOX|BeonBOX (BOX)|LOW|HIGH|POST|BOX|4|2|0|beonbox
+806|PrimeLend|PrimeLend (PML)|LOW|HIGH|POST|PML|4|2|0|primelend
+807|HorseCoin|HorseCoin (HRC)|LOW|HIGH|POST|HRC|4|2|0|horsecoin
+808|VoxelX|VoxelX (GRAY)|MEDIUM|HIGH|POST|GRAY|4|3|1|voxelx
+809|Guide|Guide (GUIDE)|LOW|HIGH|POST|GUIDE|4|2|0|guide
+810|Shivers|Shivers (SHVR)|LOW|HIGH|POST|SHVR|4|2|0|shivers
+811|Dynatiq|Dynatiq (DTQ)|MEDIUM|HIGH|POST|DTQ|4|3|1|dynatiq
+812|Zeus|Zeus (ZEUS)|MEDIUM|HIGH|POST|ZEUS|4|3|1|zeus
+813|Salt coin|Salt coin (SALT)|VERY LOW|HIGH|POST|SALT|4|1|0|salt coin
+814|FeastCoin|FeastCoin (FSC)|VERY LOW|HIGH|POST|FSC|4|1|0|feastcoin
+815|ClickGem|ClickGem (CGM)|MEDIUM|HIGH|POST|CGM|4|3|1|clickgem
+816|Stelcoin|Stelcoin (STEL)|LOW|HIGH|POST|STEL|4|2|0|stelcoin
+817|ramo|ramo (RCS)|MEDIUM|HIGH|POST|RCS|4|3|1|ramo
+818|FriendsFingers|FriendsFingers (HAK)|LOW|HIGH|POST|HAK|4|2|0|friendsfingers
+819|Bolenum|Bolenum (BLN)|MEDIUM|HIGH|POST|BLN|4|3|1|bolenum
+820|Sexservice|Sexservice (SSIO)|VERY LOW|HIGH|POST|SSIO|4|1|0|sexservice
+821|MilkCoin|MilkCoin (MLCN)|MEDIUM|HIGH|POST|MLCN|4|3|1|milkcoin
+822|World peace coin|World peace coin (WPC)|VERY LOW|VERY HIGH|POST|WPC|5|1|0|world peace coin
+823|Pitch Apply|Pitch Apply (PCH)|LOW|VERY HIGH|POST|PCH|5|2|0|pitch apply
+824|VirUS|VirUS (VIS)|MEDIUM|VERY HIGH|POST|VIS|5|3|1|virus
+825|CoinSpark|CoinSpark (SPARK)|LOW|VERY HIGH|POST|SPARK|5|2|0|coinspark
+826|MonetizeCoin|MonetizeCoin (MNZ)|LOW|VERY HIGH|POST|MNZ|5|2|0|monetizecoin
+827|StarLight|StarLight (SLC)|LOW|VERY HIGH|POST|SLC|5|2|0|starlight
+828|LuckyToken|LuckyToken (LUC)|LOW|VERY HIGH|POST|LUC|5|2|0|luckytoken
+829|Petro|Petro (PTR)|LOW|VERY HIGH|POST|PTR|5|2|0|petro
+830|SETCOIN|SETCOIN (SET)|VERY LOW|VERY HIGH|POST|SET|5|1|0|setcoin
+831|REcoin|REcoin (REC)|HIGH|VERY HIGH|POST|REC|5|4|1|recoin
+832|Benebit|Benebit (BNE)|HIGH|VERY HIGH|POST|BNE|5|4|1|benebit
+833|LOOPX|LOOPX (LPX)|HIGH|VERY HIGH|POST|LPX|5|4|1|loopx
+834|Denaro|Denaro (DNO)|HIGH|VERY HIGH|POST|DNO|5|4|1|denaro
+835|PlexCoin|PlexCoin (PLX)||VERY HIGH|POST|PLX|5|5|1|plexcoin
+836|IAGON|IAGON (IAG)|VERY HIGH|LOW|ONGOING|IAG|2|5|1|iagon
+837|Paygine|Paygine (PGC)|HIGH|LOW|ONGOING|PGC|2|4|1|paygine
+838|Ubex|Ubex (UBEX)|VERY HIGH|LOW|ONGOING|UBEX|2|5|1|ubex
+839|AIRBLOC|AIRBLOC (ABL)|HIGH|LOW|ONGOING|ABL|2|4|1|airbloc
+840|Quadrant|Quadrant (eQUAD)|HIGH|LOW|ONGOING|eQUAD|2|4|1|quadrant
+841|FTEC|FTEC (FTEC)|HIGH|LOW|ONGOING|FTEC|2|4|1|ftec
+842|Profede|Profede (PATO)|HIGH|MEDIUM|ONGOING|PATO|3|4|1|profede
+843|OneLedger|OneLedger (OLT)|HIGH|MEDIUM|ONGOING|OLT|3|4|1|oneledger
+844|Alt.Estate|Alt.Estate (ALT)|VERY HIGH|MEDIUM|ONGOING|ALT|3|5|1|alt estate
+845|Ubcoin|Ubcoin (UBC)|HIGH|MEDIUM|ONGOING|UBC|3|4|1|ubcoin
+846|Friend|Friend (FRND)|MEDIUM|MEDIUM|ONGOING|FRND|3|3|1|friend
+847|SKYFchain|SKYFchain (SKYFT)|HIGH|MEDIUM|ONGOING|SKYFT|3|4|1|skyfchain
+848|Streamity|Streamity (STM)|HIGH|MEDIUM|ONGOING|STM|3|4|1|streamity
+849|FIC Network|FIC Network (eFIC)|MEDIUM|MEDIUM|ONGOING|eFIC|3|3|1|fic network
+850|STRYKZ|STRYKZ (STRYKZ)|HIGH|MEDIUM|ONGOING|STRYKZ|3|4|1|strykz
+851|Crowd Machine|Crowd Machine (CMCT)|HIGH|MEDIUM|ONGOING|CMCT|3|4|1|crowd machine
+852|MyCreditChain|MyCreditChain (MCC)|MEDIUM|MEDIUM|ONGOING|MCC|3|3|1|mycreditchain
+853|Kairos|Kairos (KAIROS)|MEDIUM|LOW|ONGOING|KAIROS|2|3|1|kairos
+854|SpringRole|SpringRole (SPRING)|MEDIUM|MEDIUM|ONGOING|SPRING|3|3|1|springrole
+855|Carry Protocol|Carry Protocol (CRE)|HIGH|MEDIUM|ONGOING|CRE|3|4|1|carry protocol
+856|DREAM|DREAM (DREAM)|VERY HIGH|MEDIUM|ONGOING|DREAM|3|5|1|dream
+857|Loyakk|Loyakk (LYK)|MEDIUM|MEDIUM|ONGOING|LYK|3|3|1|loyakk
+858|Kasko2go|Kasko2go (K2G)|HIGH|MEDIUM|ONGOING|K2G|3|4|1|kasko2go
+859|Joys Digital|Joys Digital (JOYS)|LOW|MEDIUM|ONGOING|JOYS|3|2|0|joys digital
+860|Luckchemy|Luckchemy (LUK)|VERY HIGH|MEDIUM|ONGOING|LUK|3|5|1|luckchemy
+861|qiibee|qiibee (QBX)|HIGH|MEDIUM|ONGOING|QBX|3|4|1|qiibee
+862|Emmares|Emmares (EMA)|MEDIUM|MEDIUM|ONGOING|EMA|3|3|1|emmares
+863|Phoneum|Phoneum (PHM)|HIGH|MEDIUM|ONGOING|PHM|3|4|1|phoneum
+864|TraXion|TraXion (TXN)|VERY HIGH|MEDIUM|ONGOING|TXN|3|5|1|traxion
+865|Talao|Talao (TALAO)|MEDIUM|MEDIUM|ONGOING|TALAO|3|3|1|talao
+866|Deedcoin|Deedcoin (DEED)|MEDIUM|MEDIUM|ONGOING|DEED|3|3|1|deedcoin
+867|TV-TWO|TV-TWO (TTV)|HIGH|MEDIUM|ONGOING|TTV|3|4|1|tv two
+868|BrainerZ|BrainerZ (BRNZ)|MEDIUM|MEDIUM|ONGOING|BRNZ|3|3|1|brainerz
+869|P2PS|P2PS (P2PS)|HIGH|MEDIUM|ONGOING|P2PS|3|4|1|p2ps
+870|UHIVE|UHIVE (HVE)|MEDIUM|MEDIUM|ONGOING|HVE|3|3|1|uhive
+871|AutoUnit|AutoUnit (ATK)|MEDIUM|MEDIUM|ONGOING|ATK|3|3|1|autounit
+872|GIG9|GIG9 (9COIN)|MEDIUM|MEDIUM|ONGOING|9COIN|3|3|1|gig9
+873|Vernam|Vernam (VRN)|HIGH|MEDIUM|ONGOING|VRN|3|4|1|vernam
+874|Intro|Intro (ITR)|VERY HIGH|MEDIUM|ONGOING|ITR|3|5|1|intro
+875|ZetoChain|ZetoChain (ZETO)|HIGH|MEDIUM|ONGOING|ZETO|3|4|1|zetochain
+876|Opiria|Opiria (PDATA)|VERY HIGH|MEDIUM|ONGOING|PDATA|3|5|1|opiria
+877|Darico|Darico (DEC)|HIGH|MEDIUM|ONGOING|DEC|3|4|1|darico
+878|Essentia|Essentia (ESS)|VERY HIGH|MEDIUM|ONGOING|ESS|3|5|1|essentia
+879|Baanx|Baanx (BXX)|MEDIUM|MEDIUM|ONGOING|BXX|3|3|1|baanx
+880|eCoinomic.net|eCoinomic.net (CNC)|VERY HIGH|MEDIUM|ONGOING|CNC|3|5|1|ecoinomic net
+881|CoVEX|CoVEX (CoVEX)|MEDIUM|MEDIUM|ONGOING|CoVEX|3|3|1|covex
+882|Blockshipping GSCP|Blockshipping GSCP (CCC)|MEDIUM|MEDIUM|ONGOING|CCC|3|3|1|blockshipping gscp
+883|Mavin|Mavin (MVN)|MEDIUM|MEDIUM|ONGOING|MVN|3|3|1|mavin
+884|Papyrus|Papyrus (PPR)|HIGH|MEDIUM|ONGOING|PPR|3|4|1|papyrus
+885|Disciplina|Disciplina (DSCP)|HIGH|MEDIUM|ONGOING|DSCP|3|4|1|disciplina
+886|PEP Network|PEP Network (PEP)|LOW|MEDIUM|ONGOING|PEP|3|2|0|pep network
+887|Railz|Railz (RLZ)|MEDIUM|MEDIUM|ONGOING|RLZ|3|3|1|railz
+888|FarmaTrust|FarmaTrust (FTT)|HIGH|MEDIUM|ONGOING|FTT|3|4|1|farmatrust
+889|CryptoAds|CryptoAds (CRAD)|MEDIUM|HIGH|ONGOING|CRAD|4|3|1|cryptoads
+890|Coinnup|Coinnup (CU)|MEDIUM|HIGH|ONGOING|CU|4|3|1|coinnup
+891|AI Crypto|AI Crypto (AIC)|MEDIUM|HIGH|ONGOING|AIC|4|3|1|ai crypto
+892|BitNautic|BitNautic (BTNT)|HIGH|HIGH|ONGOING|BTNT|4|4|1|bitnautic
+893|GAGAPAY NETWORK|GAGAPAY NETWORK (GTA)|HIGH|HIGH|ONGOING|GTA|4|4|1|gagapay network
+894|Pixel|Pixel (PXLT)|MEDIUM|HIGH|ONGOING|PXLT|4|3|1|pixel
+895|Smart Valley|Smart Valley (SVT)|MEDIUM|HIGH|ONGOING|SVT|4|3|1|smart valley
+896|Kepler Technologies|Kepler Technologies (KEP)|HIGH|HIGH|ONGOING|KEP|4|4|1|kepler technologies
+897|Minery|Minery (MNRY)|LOW|HIGH|ONGOING|MNRY|4|2|0|minery
+898|SOFIN|SOFIN (SOFIN)|HIGH|HIGH|ONGOING|SOFIN|4|4|1|sofin
+899|Blockchain Ventureon|Blockchain Ventureon (VNN)|LOW|HIGH|ONGOING|VNN|4|2|0|blockchain ventureon
+900|CoinAdvisor|CoinAdvisor (CADV)|LOW|HIGH|ONGOING|CADV|4|2|0|coinadvisor
+901|G-Global|G-Global (GGP)|MEDIUM|HIGH|ONGOING|GGP|4|3|1|g global
+902|Russian Miner Coin|Russian Miner Coin (RMC)|LOW|HIGH|ONGOING|RMC|4|2|0|russian miner coin
+903|LIghtBitAtom|LIghtBitAtom (LBA)|MEDIUM|HIGH|ONGOING|LBA|4|3|1|lightbitatom
+904|Cryptohawk|Cryptohawk (HAWK)|MEDIUM|HIGH|ONGOING|HAWK|4|3|1|cryptohawk
+905|Universe of Masters|Universe of Masters (UMA)|LOW|HIGH|ONGOING|UMA|4|2|0|universe of masters
+906|Moneda|Moneda (MND)|HIGH|HIGH|ONGOING|MND|4|4|1|moneda
+907|Clears|Clears (CLRS)|VERY HIGH|HIGH|ONGOING|CLRS|4|5|1|clears
+908|Fractal Token|Fractal Token (FTO)|LOW|HIGH|ONGOING|FTO|4|2|0|fractal token
+909|StoneToken|StoneToken (ST)|LOW|HIGH|ONGOING|ST|4|2|0|stonetoken
+910|Cygnus|Cygnus (CYG)|LOW|HIGH|ONGOING|CYG|4|2|0|cygnus
+911|Futereum|Futereum (FUTR)|LOW|VERY HIGH|ONGOING|FUTR|5|2|0|futereum
+912|CodeCoin|CodeCoin (CODE)|LOW|VERY HIGH|ONGOING|CODE|5|2|0|codecoin
+913|Opporty|Opporty (OPP)|MEDIUM|LOW|Upcoming|OPP|2|3|1|opporty
+914|MyDFS|MyDFS (DFS)|HIGH|LOW|Upcoming|DFS|2|4|1|mydfs
+915|Alehub|Alehub (ALE)|MEDIUM|MEDIUM|Upcoming|ALE|3|3|1|alehub
+916|Cryptyk|Cryptyk (CTK)|MEDIUM|MEDIUM|Upcoming|CTK|3|3|1|cryptyk
+917|Akropolis|Akropolis (AKT)|MEDIUM|MEDIUM|Upcoming|AKT|3|3|1|akropolis
+918|COTI|COTI (COTI)|VERY HIGH|MEDIUM|Upcoming|COTI|3|5|1|coti
+919|Vanig|Vanig (VANIG)|VERY HIGH|MEDIUM|Upcoming|VANIG|3|5|1|vanig
+920|Casper API|Casper API (CST)|HIGH|MEDIUM|Upcoming|CST|3|4|1|casper api
+921|VTOS|VTOS (VTOS)|HIGH|MEDIUM|Upcoming|VTOS|3|4|1|vtos
+922|OSA DC|OSA DC (OSA)|HIGH|MEDIUM|Upcoming|OSA|3|4|1|osa dc
+923|Soundeon|Soundeon (SOUNDEON)|HIGH|MEDIUM|PRE|SOUNDEON|3|4|1|soundeon
+924|SilkChain|SilkChain (SILK)|HIGH|LOW|PRE|SILK|2|4|1|silkchain
