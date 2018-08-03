@@ -2,35 +2,33 @@
 {% import "bootstrap/utils.html" as utils %}
 
 {% block title %}
-	Campaign Delivery Dashboard
+	De-Crypto
 {% endblock %}
 
 {% block head %}
-<!-- 	<link href="https://nightly.datatables.net/css/jquery.dataTables.css" rel="stylesheet" type="text/css" />
-	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-	<script src="https://nightly.datatables.net/js/jquery.dataTables.js"></script> -->
 	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.css"/>
+	<style>
+		{% include 'style.css' %}
+	</style>
 	<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.js"></script>
 	<script type="text/javascript" src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.js"></script>   
-	<!-- <script type="text/javascript" src="{{ url_for('static',filename='jquery.dataTables.js') }}"></script> -->
 	<script src="https://code.highcharts.com/highcharts.js"></script>
-	<!-- <script type="text/javascript" src="{{ url_for('static',filename='highcharts/js/highcharts.js') }}"></script> -->
+	<script src="https://code.highcharts.com/modules/data.js"></script>
 	<script src="https://code.highcharts.com/highcharts-more.js"></script>
 	<script src="https://code.highcharts.com/modules/exporting.js"></script>
 	<script src="https://code.highcharts.com/modules/export-data.js"></script>
-	<script src="https://code.highcharts.com/modules/series-label.js"></script>
-	<!-- <script src="https://cdn.datatables.net/plug-ins/1.10.16/dataRender/datetime.js"></script> -->
 
 	{{super()}}
 {% endblock %}
 
 {% block scripts %}
-	
+	<script type="text/javascript">
+		{% include 'js/sparklines.js' %}
+	</script>
 {% endblock %}
 
 {% block navbar %}
 <div class="navbar navbar-fixed-top">
-  <!-- ... -->
 </div>
 {% endblock %}
 
@@ -46,70 +44,66 @@
 			{%- endif %}
 		{%- endwith %}
 		<div class="page-header">
-			<h1>Campaign Reporting Details</h1>
-			<p>Placeholder text for campaign delivery dashboard.</p>
-			<p>
-				<a class="btn btn-lg btn-default" role="button" href="http://pythonhosted.org/Flask-Bootstrap" >Show docs</a>
-			</p>
+			<h1>{{ico_name|safe}}</h1>
+			<p>These tokens had similar characteristics at ICO stage.</p>
 		</div>
 	</div>
-	<div class="container" id="chart1"></div>
+	<div class="container" id='chart1'>
+		<!-- <img src="{{url_for('static', filename='img/whitepaper.png')}}" /> -->
+		<table id="table1" class="display" width="100%"></table>
+	</div>
 	<script type="text/javascript">
-		var data1 = {{data1|safe}};
-		console.log(data1)
-		var chart1 = Highcharts.chart('chart1', {
 
-		    title: {
-		        text: 'Deployed Devices by Report Version'
-		    },
-
-		    yAxis: {
-		        title: {
-		            text: '# of Devices'
-		        },
-		        min: 0
-		    },
-
-		    xAxis: {
-		    	categorical: true
-		    },
-
-		    legend: {
-		        layout: 'vertical',
-		        align: 'right',
-		        verticalAlign: 'middle'
-		    },
-
-		    plotOptions: {
-		        series: {
-		            label: {
-		                connectorAllowed: false
-		            },
-		            pointStart: 2010
-		        }
-		    },
-
-		    series: [{
-		    	name: data1[0]['asset_type'],
-		    	data: data1
-		    }],
-
-		    responsive: {
-		        rules: [{
-		            condition: {
-		                maxWidth: 500
-		            },
-		            chartOptions: {
-		                legend: {
-		                    layout: 'horizontal',
-		                    align: 'center',
-		                    verticalAlign: 'bottom'
-		                }
-		            }
-		        }]
+		Highcharts.setOptions({
+		    lang: {
+		        thousandsSep: ','
 		    }
+		}); 	
 
+		$.getJSON('/_similar/{{ico_name|safe}}', function(data) {
+			var table='<table id="table-sparkline">';
+			/* loop over each object in the array to create rows*/
+			$.each( data, function( index, item){
+				/* add to html string started above*/
+				var cols = ['ICO Name','Founder','Description','Start Date','End Date','Status','Price History','Links']
+				var sparkline_cols = ['Price History']
+				var url_cols = ['ICO Name','Founder']
+				if(index == 0) {
+					table += '<thead><tr>'
+					cols.forEach(key => {
+						table += '<th>'+key+'</th>'; 
+					});
+					table += '</tr></thead><tbody id="tbody-sparkline">'
+				} else {
+					table += '<tr>'
+					cols.forEach(key => {
+						if (sparkline_cols.includes(key)) {
+							table += '<td data-sparkline="'+item[key]+'"></td>';
+						} else if (url_cols.includes(key)) {
+							text = item[key].toString().split('|')[0]
+							url = item[key].toString().split('|')[1]
+							console.log(text)
+							table += '<td><a href="' + url +'">' + text + '</a></td>'; 
+						} else {
+							table += '<td>'+item[key]+'</td>';
+						};
+					});
+					table += '</tr>'
+				};
+			});
+			table+='</tbody></table>';
+			/* insert the html string*/
+			$("#table1").html( table );		
+
+			{% include 'js/sparklines.js' %}
+			doChunk();
+			$('#table1').DataTable({
+				stateSave: true,
+				columnDefs: { width: 100, targets: [1,2]}
+			});
 		});
+	</script>
+	<script type="text/javascript">
 
 	</script>
 
