@@ -28,8 +28,7 @@
 {% endblock %}
 
 {% block navbar %}
-<div class="navbar navbar-fixed-top">
-</div>
+	{{nav.mynavbar.render()}}
 {% endblock %}
 
 {% block content %}
@@ -44,11 +43,11 @@
 			{%- endif %}
 		{%- endwith %}
 		<div class="page-header">
-			<h1>De-Crypto: Upcoming ICOs</h1>
+			<h1>Upcoming ICOs</h1>
 			<p>All ICOs in the next 3 months.</p>
-			<p>
+			<!-- <p>
 				<a class="btn btn-lg btn-default" role="button" href="http://pythonhosted.org/Flask-Bootstrap" >Show docs</a>
-			</p>
+			</p> -->
 		</div>
 	</div>
 	<div class="container" id='chart1'>
@@ -68,8 +67,8 @@
 			/* loop over each object in the array to create rows*/
 			$.each( data, function( index, item){
 				/* add to html string started above*/
-				var cols = ['ICO Name','Symbol','Hype Score','Risk Score','Description','Founder','Start Date','End Date','Price History','Links']
-				var sparkline_cols = ['Price History']
+				var cols = ['ICO Name','Symbol','Start Date','End Date','Description']
+				var sparkline_cols = []
 				var url_cols = ['ICO Name']
 				if(index == 0) {
 					table += '<thead><tr>'
