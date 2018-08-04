@@ -28,8 +28,7 @@
 {% endblock %}
 
 {% block navbar %}
-<div class="navbar navbar-fixed-top">
-</div>
+	{{nav.mynavbar.render()}}
 {% endblock %}
 
 {% block content %}
@@ -45,12 +44,12 @@
 		{%- endwith %}
 		<div class="page-header">
 			<h1>{{ico_name|safe}}</h1>
-			<p>These tokens had similar characteristics at ICO stage.</p>
+			<!-- <p>These tokens had similar characteristics at ICO stage.</p> -->
 		</div>
 	</div>
 	<div class="container" id='chart1'>
 		<!-- <img src="{{url_for('static', filename='img/whitepaper.png')}}" /> -->
-		<table id="table1" class="display" width="100%"></table>
+		<table id="list1" class="display" width="100%"></table>
 	</div>
 	<script type="text/javascript">
 
@@ -60,47 +59,32 @@
 		    }
 		}); 	
 
-		$.getJSON('/_similar/{{ico_name|safe}}', function(data) {
-			var table='<table id="table-sparkline">';
-			/* loop over each object in the array to create rows*/
-			$.each( data, function( index, item){
-				/* add to html string started above*/
-				var cols = ['ICO Name','Founder','Description','Start Date','End Date','Status','Price History','Links']
-				var sparkline_cols = ['Price History']
-				var url_cols = ['ICO Name','Founder']
-				if(index == 0) {
-					table += '<thead><tr>'
-					cols.forEach(key => {
-						table += '<th>'+key+'</th>'; 
-					});
-					table += '</tr></thead><tbody id="tbody-sparkline">'
-				} else {
-					table += '<tr>'
-					cols.forEach(key => {
-						if (sparkline_cols.includes(key)) {
-							table += '<td data-sparkline="'+item[key]+'"></td>';
-						} else if (url_cols.includes(key)) {
-							text = item[key].toString().split('|')[0]
-							url = item[key].toString().split('|')[1]
-							console.log(text)
-							table += '<td><a href="' + url +'">' + text + '</a></td>'; 
-						} else {
-							table += '<td>'+item[key]+'</td>';
+		$.getJSON('/_detail/{{ico_name|safe}}', function(data) {
+			var list1='<ul id="details-list">';
+			var url_cols = ['owner_url']
+			// console.log(data)
+			$.each( data, function( index, item) {
+				if (url_cols.includes(index)) {
+					text = item.toString().split('|')[0]
+					url = item.toString().split('|')[1]
+					list1 += '<li><b>'+index+'</b>: <a href="' + url +'">' + text + '</a></td>'; 
+				} else if (index == 'links') {
+					list1 += '<li><b>'+index+'</b>:<br/><ul>'
+					links = item.toString().split('<br/>')
+					$.each(links, function(index, val) {
+						if (val != "") {
+							list1 += '<li>'+val+'</li>'
 						};
 					});
-					table += '</tr>'
-				};
-			});
-			table+='</tbody></table>';
-			/* insert the html string*/
-			$("#table1").html( table );		
+					list1 += '</ul></li>'
+				} else {
+					list1 += '<li><b>'+index+'</b>: '+item+'</li>'
+				}
 
-			{% include 'js/sparklines.js' %}
-			doChunk();
-			$('#table1').DataTable({
-				stateSave: true,
-				columnDefs: { width: 100, targets: [1,2]}
 			});
+			list1+='</ul>';
+			/* insert the html string*/
+			$("#list1").html( list1 );
 		});
 	</script>
 	<script type="text/javascript">
