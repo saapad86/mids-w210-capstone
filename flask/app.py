@@ -61,10 +61,6 @@ def _upcoming1():
 	df1.sort_values(by=['Symbol','Hype Score'],ascending=[False,False])
 	return jsonify(df1.fillna('').to_dict(orient='records'))
 
-@app.route("/about")
-def about():
-	return render_template('upcoming.html')
-
 # @app.route("/summary")
 # def summary():
 # 	return render_template('html/index.html')
@@ -112,6 +108,10 @@ def _detail1(name):
 	df1 = df1[['symbol','name','hype_score','risk_score','sentiment_score','volatility_score','owner_url','links','description','ico_start_date','ico_end_date','ico_sold_status','bonus_details','twitter_followers','facebook_followers']]
 	# df1.columns = ['Symbol','ICO Name','Hype Score','Risk Score','Sentiment Score','Volatilty Score,'Founder','Links','Description','Start Date','End Date','Status','Price History']
 	return jsonify(df1.fillna('').to_dict(orient='records')[0])
+
+@app.route("/about")
+def about():
+	return render_template('about.html')
 
 @app.route("/similar/<string:name>")
 def similar(name):

@@ -73,7 +73,16 @@
 					links = item.toString().split('<br/>')
 					$.each(links, function(index, val) {
 						if (val != "") {
-							list1 += '<li>'+val+'</li>'
+							if (val.includes("Whitepaper")) {
+								img = "<img src='/static/img/whitepaper.png' height='24' width='24'/>"
+							} else if (val.includes("Twitter")) {
+								img = "<img src='/static/img/twitter.png' height='24' width='24'/>"
+							} else if (val.includes("Facebook")) {
+								img = "<img src='/static/img/facebook.png' height='24' width='24'/>"
+							} else {
+								img = ""
+							}
+							list1 += '<li>'+img+'   '+val+'</li>'
 						};
 					});
 					list1 += '</ul></li>'
