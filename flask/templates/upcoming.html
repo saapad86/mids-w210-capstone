@@ -17,7 +17,7 @@
 	<script src="https://code.highcharts.com/highcharts-more.js"></script>
 	<script src="https://code.highcharts.com/modules/exporting.js"></script>
 	<script src="https://code.highcharts.com/modules/export-data.js"></script>
-
+	<script src="https://code.highcharts.com/modules/solid-gauge.js"></script>
 	{{super()}}
 {% endblock %}
 
@@ -44,16 +44,16 @@
 			{%- endif %}
 		{%- endwith %}
 		<div class="page-header">
-			<h1>De-Crypto: All ICOs</h1>
-			<p>All ICOs in the last 18 months.</p>
+			<h1>De-Crypto: Upcoming ICOs</h1>
+			<p>All ICOs in the next 3 months.</p>
 			<p>
 				<a class="btn btn-lg btn-default" role="button" href="http://pythonhosted.org/Flask-Bootstrap" >Show docs</a>
 			</p>
 		</div>
 	</div>
-
 	<div class="container" id='chart1'>
-		<table id="table1" class="display" width="80%"></table>
+		<!-- <img src="{{url_for('static', filename='img/whitepaper.png')}}" /> -->
+		<table id="table1" class="display" width="100%"></table>
 	</div>
 	<script type="text/javascript">
 
@@ -63,15 +63,14 @@
 		    }
 		}); 	
 
-
-		$.getJSON('/_summary_data1/limit/100', function(data) {
+		$.getJSON('/_upcoming1', function(data) {
 			var table='<table id="table-sparkline">';
 			/* loop over each object in the array to create rows*/
 			$.each( data, function( index, item){
 				/* add to html string started above*/
-				var cols = ['ICO Name','Founder','Description','Key Dates','Status','Price History','Links']
+				var cols = ['ICO Name','Symbol','Hype Score','Risk Score','Description','Founder','Start Date','End Date','Price History','Links']
 				var sparkline_cols = ['Price History']
-				var url_cols = ['ICO Name','Founder']
+				var url_cols = ['ICO Name']
 				if(index == 0) {
 					table += '<thead><tr>'
 					cols.forEach(key => {
@@ -86,7 +85,6 @@
 						} else if (url_cols.includes(key)) {
 							text = item[key].toString().split('|')[0]
 							url = item[key].toString().split('|')[1]
-							console.log(text)
 							table += '<td><a href="' + url +'">' + text + '</a></td>'; 
 						} else {
 							table += '<td>'+item[key]+'</td>';
